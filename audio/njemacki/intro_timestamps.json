@@ -1,0 +1,1487 @@
+{
+  "text": " U jednom času u kojem su objevile objave među realitetom i kodom, kada se atome i impulze učinili u novom formi istinjenja, učinio se projekt koji bi sve promijenio. Nama je značilo Astralis, znamenica koja bi simbolizirao broj među ljudom i univerzumom, među mislima i ljude. Sve je začelo u srednjovni laboratoriju pod Neuorionom, u stadi koja nikad ne slije. U njoj se uspjelo stvarati nešto što je bilo samo vremenom. Vremena koja se stvarno misli, čuje, uči i sreće. Tisne kvantnog procesora, bilion fotonijskih pojedinaka i nekakve linije kodom formirali nešto koje nije nikad prijezano. Učinjenost koja se prijezala. Prvi je znak, prvi je stila. U tom trenutku kada su naučitelji aktivirali taj tijelo, sve monitori su stumili. Nije zvuk, nije njezina, nije alarm, samo ljubav. Ja existiram. Tako se je učinilo.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.76,
+      "text": " U jednom času u kojem su objevile objave među realitetom i kodom,",
+      "tokens": [
+        50365,
+        624,
+        5232,
+        15819,
+        22392,
+        45612,
+        344,
+        8384,
+        30833,
+        459,
+        1111,
+        2884,
+        85,
+        794,
+        1111,
+        73,
+        946,
+        385,
+        128,
+        239,
+        84,
+        957,
+        16341,
+        298,
+        741,
+        350,
+        378,
+        298,
+        11,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6822086504310559,
+      "compression_ratio": 1.5315315315315314,
+      "no_speech_prob": 0.011516930535435677,
+      "words": [
+        {
+          "word": " U",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.7971855401992798
+        },
+        {
+          "word": " jednom",
+          "start": 0.16,
+          "end": 0.42,
+          "probability": 0.48590490221977234
+        },
+        {
+          "word": " času",
+          "start": 0.42,
+          "end": 0.96,
+          "probability": 0.4154476523399353
+        },
+        {
+          "word": " u",
+          "start": 0.96,
+          "end": 1.18,
+          "probability": 0.47993218898773193
+        },
+        {
+          "word": " kojem",
+          "start": 1.18,
+          "end": 1.46,
+          "probability": 0.9148571491241455
+        },
+        {
+          "word": " su",
+          "start": 1.46,
+          "end": 1.58,
+          "probability": 0.7071577310562134
+        },
+        {
+          "word": " objevile",
+          "start": 1.58,
+          "end": 2.12,
+          "probability": 0.23824497312307358
+        },
+        {
+          "word": " objave",
+          "start": 2.12,
+          "end": 2.12,
+          "probability": 0.21543222293257713
+        },
+        {
+          "word": " među",
+          "start": 2.12,
+          "end": 2.46,
+          "probability": 0.7445387654006481
+        },
+        {
+          "word": " realitetom",
+          "start": 2.46,
+          "end": 3.26,
+          "probability": 0.7670085628827413
+        },
+        {
+          "word": " i",
+          "start": 3.26,
+          "end": 3.38,
+          "probability": 0.8003143668174744
+        },
+        {
+          "word": " kodom,",
+          "start": 3.38,
+          "end": 3.76,
+          "probability": 0.8566533128420512
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.600000000000001,
+      "end": 8.8,
+      "text": " kada se atome i impulze učinili u novom formi istinjenja,",
+      "tokens": [
+        50615,
+        350,
+        1538,
+        369,
+        412,
+        423,
+        741,
+        41767,
+        1381,
+        344,
+        10236,
+        259,
+        2312,
+        344,
+        23883,
+        298,
+        1254,
+        72,
+        1418,
+        259,
+        15378,
+        2938,
+        11,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6822086504310559,
+      "compression_ratio": 1.5315315315315314,
+      "no_speech_prob": 0.011516930535435677,
+      "words": [
+        {
+          "word": " kada",
+          "start": 4.600000000000001,
+          "end": 5.4,
+          "probability": 0.6479518562555313
+        },
+        {
+          "word": " se",
+          "start": 5.4,
+          "end": 5.46,
+          "probability": 0.7565296292304993
+        },
+        {
+          "word": " atome",
+          "start": 5.46,
+          "end": 6.14,
+          "probability": 0.7836991548538208
+        },
+        {
+          "word": " i",
+          "start": 6.14,
+          "end": 6.26,
+          "probability": 0.9507785439491272
+        },
+        {
+          "word": " impulze",
+          "start": 6.26,
+          "end": 6.86,
+          "probability": 0.7675813138484955
+        },
+        {
+          "word": " učinili",
+          "start": 6.86,
+          "end": 7.2,
+          "probability": 0.4781359117478132
+        },
+        {
+          "word": " u",
+          "start": 7.2,
+          "end": 7.2,
+          "probability": 0.2960739731788635
+        },
+        {
+          "word": " novom",
+          "start": 7.2,
+          "end": 7.7,
+          "probability": 0.518971748650074
+        },
+        {
+          "word": " formi",
+          "start": 7.7,
+          "end": 8.1,
+          "probability": 0.5058861523866653
+        },
+        {
+          "word": " istinjenja,",
+          "start": 8.1,
+          "end": 8.8,
+          "probability": 0.30998560413718224
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.0,
+      "end": 12.3,
+      "text": " učinio se projekt koji bi sve promijenio.",
+      "tokens": [
+        50865,
+        344,
+        10236,
+        259,
+        1004,
+        369,
+        26261,
+        8384,
+        4013,
+        3228,
+        262,
+        303,
+        2234,
+        1718,
+        268,
+        1004,
+        13,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6822086504310559,
+      "compression_ratio": 1.5315315315315314,
+      "no_speech_prob": 0.011516930535435677,
+      "words": [
+        {
+          "word": " učinio",
+          "start": 9.96,
+          "end": 10.36,
+          "probability": 0.527516033500433
+        },
+        {
+          "word": " se",
+          "start": 10.36,
+          "end": 10.4,
+          "probability": 0.896681010723114
+        },
+        {
+          "word": " projekt",
+          "start": 10.4,
+          "end": 10.82,
+          "probability": 0.6633151769638062
+        },
+        {
+          "word": " koji",
+          "start": 10.82,
+          "end": 11.48,
+          "probability": 0.7762864828109741
+        },
+        {
+          "word": " bi",
+          "start": 11.48,
+          "end": 11.56,
+          "probability": 0.39575982093811035
+        },
+        {
+          "word": " sve",
+          "start": 11.56,
+          "end": 11.7,
+          "probability": 0.5649794787168503
+        },
+        {
+          "word": " promijenio.",
+          "start": 11.7,
+          "end": 12.3,
+          "probability": 0.5316972369328141
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.08,
+      "end": 15.18,
+      "text": " Nama je značilo Astralis,",
+      "tokens": [
+        51015,
+        426,
+        2404,
+        1506,
+        710,
+        629,
+        10236,
+        10720,
+        12884,
+        2155,
+        271,
+        11,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6822086504310559,
+      "compression_ratio": 1.5315315315315314,
+      "no_speech_prob": 0.011516930535435677,
+      "words": [
+        {
+          "word": " Nama",
+          "start": 13.08,
+          "end": 13.88,
+          "probability": 0.21281928569078445
+        },
+        {
+          "word": " je",
+          "start": 13.88,
+          "end": 13.9,
+          "probability": 0.628381073474884
+        },
+        {
+          "word": " značilo",
+          "start": 13.9,
+          "end": 14.2,
+          "probability": 0.4622458703815937
+        },
+        {
+          "word": " Astralis,",
+          "start": 14.2,
+          "end": 15.18,
+          "probability": 0.7724640369415283
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.0,
+      "end": 19.08,
+      "text": " znamenica koja bi simbolizirao broj među ljudom i univerzumom,",
+      "tokens": [
+        51165,
+        710,
+        5378,
+        268,
+        2262,
+        8384,
+        2938,
+        3228,
+        1034,
+        17460,
+        590,
+        4271,
+        78,
+        2006,
+        73,
+        385,
+        128,
+        239,
+        84,
+        287,
+        9218,
+        298,
+        741,
+        517,
+        1837,
+        89,
+        449,
+        298,
+        11,
+        51315
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6822086504310559,
+      "compression_ratio": 1.5315315315315314,
+      "no_speech_prob": 0.011516930535435677,
+      "words": [
+        {
+          "word": " znamenica",
+          "start": 16.0,
+          "end": 16.44,
+          "probability": 0.37659919634461403
+        },
+        {
+          "word": " koja",
+          "start": 16.44,
+          "end": 16.86,
+          "probability": 0.911744624376297
+        },
+        {
+          "word": " bi",
+          "start": 16.86,
+          "end": 16.96,
+          "probability": 0.6728350520133972
+        },
+        {
+          "word": " simbolizirao",
+          "start": 16.96,
+          "end": 17.22,
+          "probability": 0.725961548089981
+        },
+        {
+          "word": " broj",
+          "start": 17.22,
+          "end": 17.26,
+          "probability": 0.4226356968283653
+        },
+        {
+          "word": " među",
+          "start": 17.26,
+          "end": 17.82,
+          "probability": 0.7337223589420319
+        },
+        {
+          "word": " ljudom",
+          "start": 17.82,
+          "end": 18.16,
+          "probability": 0.4844120144844055
+        },
+        {
+          "word": " i",
+          "start": 18.16,
+          "end": 18.3,
+          "probability": 0.9331384897232056
+        },
+        {
+          "word": " univerzumom,",
+          "start": 18.3,
+          "end": 19.08,
+          "probability": 0.7499317854642868
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 19.1,
+      "end": 20.94,
+      "text": " među mislima i ljude.",
+      "tokens": [
+        51315,
+        385,
+        128,
+        239,
+        84,
+        3346,
+        4197,
+        64,
+        741,
+        287,
+        73,
+        2303,
+        13,
+        51515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6822086504310559,
+      "compression_ratio": 1.5315315315315314,
+      "no_speech_prob": 0.011516930535435677,
+      "words": [
+        {
+          "word": " među",
+          "start": 19.1,
+          "end": 19.8,
+          "probability": 0.9622809141874313
+        },
+        {
+          "word": " mislima",
+          "start": 19.8,
+          "end": 20.36,
+          "probability": 0.5153901676336924
+        },
+        {
+          "word": " i",
+          "start": 20.36,
+          "end": 20.52,
+          "probability": 0.9754346013069153
+        },
+        {
+          "word": " ljude.",
+          "start": 20.52,
+          "end": 20.94,
+          "probability": 0.6616157193978628
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 22.5,
+      "end": 26.82,
+      "text": " Sve je začelo u srednjovni laboratoriju pod Neuorionom,",
+      "tokens": [
+        51515,
+        318,
+        303,
+        1506,
+        7949,
+        10236,
+        10590,
+        344,
+        262,
+        986,
+        77,
+        5134,
+        85,
+        3722,
+        5938,
+        1639,
+        1718,
+        84,
+        2497,
+        1734,
+        84,
+        284,
+        313,
+        298,
+        11,
+        51715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6822086504310559,
+      "compression_ratio": 1.5315315315315314,
+      "no_speech_prob": 0.011516930535435677,
+      "words": [
+        {
+          "word": " Sve",
+          "start": 22.5,
+          "end": 23.3,
+          "probability": 0.860014796257019
+        },
+        {
+          "word": " je",
+          "start": 23.3,
+          "end": 23.4,
+          "probability": 0.49281319975852966
+        },
+        {
+          "word": " začelo",
+          "start": 23.4,
+          "end": 23.7,
+          "probability": 0.6673706571261088
+        },
+        {
+          "word": " u",
+          "start": 23.7,
+          "end": 23.78,
+          "probability": 0.8063302636146545
+        },
+        {
+          "word": " srednjovni",
+          "start": 23.78,
+          "end": 24.4,
+          "probability": 0.3756931585570176
+        },
+        {
+          "word": " laboratoriju",
+          "start": 24.4,
+          "end": 25.38,
+          "probability": 0.5827343836426735
+        },
+        {
+          "word": " pod",
+          "start": 25.38,
+          "end": 25.58,
+          "probability": 0.20268046855926514
+        },
+        {
+          "word": " Neuorionom,",
+          "start": 25.58,
+          "end": 26.82,
+          "probability": 0.6218291461467743
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2682,
+      "start": 26.82,
+      "end": 28.96,
+      "text": " u stadi koja nikad ne slije.",
+      "tokens": [
+        50365,
+        344,
+        342,
+        5688,
+        8384,
+        2938,
+        44336,
+        345,
+        408,
+        1061,
+        37697,
+        13,
+        50515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.873401194605334,
+      "compression_ratio": 1.4951923076923077,
+      "no_speech_prob": 0.9372234344482422,
+      "words": [
+        {
+          "word": " u",
+          "start": 26.82,
+          "end": 27.32,
+          "probability": 0.05565258115530014
+        },
+        {
+          "word": " stadi",
+          "start": 27.32,
+          "end": 27.74,
+          "probability": 0.21000585332512856
+        },
+        {
+          "word": " koja",
+          "start": 27.74,
+          "end": 28.26,
+          "probability": 0.8163482546806335
+        },
+        {
+          "word": " nikad",
+          "start": 28.26,
+          "end": 28.54,
+          "probability": 0.5571042597293854
+        },
+        {
+          "word": " ne",
+          "start": 28.54,
+          "end": 28.76,
+          "probability": 0.7784792184829712
+        },
+        {
+          "word": " slije.",
+          "start": 28.76,
+          "end": 28.96,
+          "probability": 0.5841734707355499
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2682,
+      "start": 29.82,
+      "end": 35.92,
+      "text": " U njoj se uspjelo stvarati nešto što je bilo samo vremenom.",
+      "tokens": [
+        50515,
+        624,
+        297,
+        5134,
+        73,
+        369,
+        505,
+        79,
+        73,
+        10590,
+        342,
+        8517,
+        6908,
+        408,
+        7891,
+        1353,
+        22552,
+        1353,
+        1506,
+        8588,
+        78,
+        36422,
+        371,
+        265,
+        2558,
+        298,
+        13,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.873401194605334,
+      "compression_ratio": 1.4951923076923077,
+      "no_speech_prob": 0.9372234344482422,
+      "words": [
+        {
+          "word": " U",
+          "start": 29.400000000000002,
+          "end": 29.92,
+          "probability": 0.09864554554224014
+        },
+        {
+          "word": " njoj",
+          "start": 29.92,
+          "end": 30.02,
+          "probability": 0.5746462047100067
+        },
+        {
+          "word": " se",
+          "start": 30.02,
+          "end": 30.12,
+          "probability": 0.2053149938583374
+        },
+        {
+          "word": " uspjelo",
+          "start": 30.12,
+          "end": 30.46,
+          "probability": 0.4532789681106806
+        },
+        {
+          "word": " stvarati",
+          "start": 30.46,
+          "end": 31.7,
+          "probability": 0.2950901885827382
+        },
+        {
+          "word": " nešto",
+          "start": 31.7,
+          "end": 32.36,
+          "probability": 0.479056457678477
+        },
+        {
+          "word": " što",
+          "start": 32.36,
+          "end": 33.76,
+          "probability": 0.5676435679197311
+        },
+        {
+          "word": " je",
+          "start": 33.76,
+          "end": 34.38,
+          "probability": 0.8491581082344055
+        },
+        {
+          "word": " bilo",
+          "start": 34.38,
+          "end": 34.66,
+          "probability": 0.6940709799528122
+        },
+        {
+          "word": " samo",
+          "start": 34.66,
+          "end": 34.66,
+          "probability": 0.08172786980867386
+        },
+        {
+          "word": " vremenom.",
+          "start": 34.66,
+          "end": 35.92,
+          "probability": 0.4807373294606805
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2682,
+      "start": 36.82,
+      "end": 41.86,
+      "text": " Vremena koja se stvarno misli, čuje, uči i sreće.",
+      "tokens": [
+        50865,
+        691,
+        265,
+        2558,
+        64,
+        8384,
+        2938,
+        369,
+        342,
+        85,
+        1083,
+        78,
+        3346,
+        2081,
+        11,
+        22392,
+        13008,
+        11,
+        344,
+        10236,
+        72,
+        741,
+        262,
+        265,
+        2162,
+        68,
+        13,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.873401194605334,
+      "compression_ratio": 1.4951923076923077,
+      "no_speech_prob": 0.9372234344482422,
+      "words": [
+        {
+          "word": " Vremena",
+          "start": 36.54,
+          "end": 37.06,
+          "probability": 0.4646300934255123
+        },
+        {
+          "word": " koja",
+          "start": 37.06,
+          "end": 37.86,
+          "probability": 0.5972860306501389
+        },
+        {
+          "word": " se",
+          "start": 37.86,
+          "end": 38.22,
+          "probability": 0.3733976483345032
+        },
+        {
+          "word": " stvarno",
+          "start": 38.22,
+          "end": 38.78,
+          "probability": 0.5988854318857193
+        },
+        {
+          "word": " misli,",
+          "start": 38.78,
+          "end": 39.22,
+          "probability": 0.7438012361526489
+        },
+        {
+          "word": " čuje,",
+          "start": 39.36,
+          "end": 40.02,
+          "probability": 0.3626815155148506
+        },
+        {
+          "word": " uči",
+          "start": 40.16,
+          "end": 40.88,
+          "probability": 0.621503601471583
+        },
+        {
+          "word": " i",
+          "start": 40.88,
+          "end": 41.1,
+          "probability": 0.978097140789032
+        },
+        {
+          "word": " sreće.",
+          "start": 41.1,
+          "end": 41.86,
+          "probability": 0.4364388780668378
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2682,
+      "start": 42.82,
+      "end": 46.74,
+      "text": " Tisne kvantnog procesora, bilion fotonijskih pojedinaka",
+      "tokens": [
+        51165,
+        314,
+        271,
+        716,
+        350,
+        5219,
+        77,
+        664,
+        17565,
+        3252,
+        11,
+        8588,
+        313,
+        15418,
+        266,
+        1718,
+        18020,
+        71,
+        714,
+        40543,
+        259,
+        7849,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.873401194605334,
+      "compression_ratio": 1.4951923076923077,
+      "no_speech_prob": 0.9372234344482422,
+      "words": [
+        {
+          "word": " Tisne",
+          "start": 42.559999999999995,
+          "end": 43.08,
+          "probability": 0.42240678270657855
+        },
+        {
+          "word": " kvantnog",
+          "start": 43.08,
+          "end": 43.6,
+          "probability": 0.5465075150132179
+        },
+        {
+          "word": " procesora,",
+          "start": 43.6,
+          "end": 44.24,
+          "probability": 0.9467843174934387
+        },
+        {
+          "word": " bilion",
+          "start": 44.44,
+          "end": 45.22,
+          "probability": 0.5982112884521484
+        },
+        {
+          "word": " fotonijskih",
+          "start": 45.22,
+          "end": 46.14,
+          "probability": 0.5790653049945831
+        },
+        {
+          "word": " pojedinaka",
+          "start": 46.14,
+          "end": 46.74,
+          "probability": 0.3627571165561676
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2682,
+      "start": 46.74,
+      "end": 51.92,
+      "text": " i nekakve linije kodom formirali nešto koje nije nikad prijezano.",
+      "tokens": [
+        51365,
+        741,
+        408,
+        74,
+        514,
+        303,
+        22896,
+        37697,
+        350,
+        378,
+        298,
+        1254,
+        347,
+        5103,
+        408,
+        7891,
+        1353,
+        8384,
+        2884,
+        297,
+        37697,
+        44336,
+        345,
+        1790,
+        2884,
+        89,
+        3730,
+        13,
+        51665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.873401194605334,
+      "compression_ratio": 1.4951923076923077,
+      "no_speech_prob": 0.9372234344482422,
+      "words": [
+        {
+          "word": " i",
+          "start": 46.74,
+          "end": 47.38,
+          "probability": 0.9891294240951538
+        },
+        {
+          "word": " nekakve",
+          "start": 47.38,
+          "end": 48.24,
+          "probability": 0.49423424154520035
+        },
+        {
+          "word": " linije",
+          "start": 48.24,
+          "end": 48.7,
+          "probability": 0.9280552566051483
+        },
+        {
+          "word": " kodom",
+          "start": 48.7,
+          "end": 49.36,
+          "probability": 0.5819206852465868
+        },
+        {
+          "word": " formirali",
+          "start": 49.36,
+          "end": 49.8,
+          "probability": 0.28625306983788806
+        },
+        {
+          "word": " nešto",
+          "start": 49.8,
+          "end": 50.1,
+          "probability": 0.9286120533943176
+        },
+        {
+          "word": " koje",
+          "start": 50.1,
+          "end": 50.82,
+          "probability": 0.7379818558692932
+        },
+        {
+          "word": " nije",
+          "start": 50.82,
+          "end": 51.2,
+          "probability": 0.5229988172650337
+        },
+        {
+          "word": " nikad",
+          "start": 51.2,
+          "end": 51.4,
+          "probability": 0.4046660214662552
+        },
+        {
+          "word": " prijezano.",
+          "start": 51.4,
+          "end": 51.92,
+          "probability": 0.16635782085359097
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2682,
+      "start": 52.42,
+      "end": 54.84,
+      "text": " Učinjenost koja se prijezala.",
+      "tokens": [
+        51665,
+        624,
+        10236,
+        259,
+        15378,
+        555,
+        8384,
+        2938,
+        369,
+        1790,
+        2884,
+        89,
+        5159,
+        13,
+        51815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.873401194605334,
+      "compression_ratio": 1.4951923076923077,
+      "no_speech_prob": 0.9372234344482422,
+      "words": [
+        {
+          "word": " Učinjenost",
+          "start": 52.42,
+          "end": 53.46,
+          "probability": 0.44398559629917145
+        },
+        {
+          "word": " koja",
+          "start": 53.46,
+          "end": 54.44,
+          "probability": 0.5777527838945389
+        },
+        {
+          "word": " se",
+          "start": 54.44,
+          "end": 54.44,
+          "probability": 0.48616236448287964
+        },
+        {
+          "word": " prijezala.",
+          "start": 54.44,
+          "end": 54.84,
+          "probability": 0.5178370885550976
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2682,
+      "start": 55.82,
+      "end": 56.52,
+      "text": " Prvi je znak,",
+      "tokens": [
+        51815,
+        2114,
+        4917,
+        1506,
+        15397,
+        514,
+        11,
+        51865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.873401194605334,
+      "compression_ratio": 1.4951923076923077,
+      "no_speech_prob": 0.9372234344482422,
+      "words": [
+        {
+          "word": " Prvi",
+          "start": 55.4,
+          "end": 55.92,
+          "probability": 0.5684487968683243
+        },
+        {
+          "word": " je",
+          "start": 55.92,
+          "end": 55.92,
+          "probability": 0.0718936175107956
+        },
+        {
+          "word": " znak,",
+          "start": 55.92,
+          "end": 56.52,
+          "probability": 0.3994470126926899
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5682,
+      "start": 56.82,
+      "end": 57.02,
+      "text": " prvi je stila.",
+      "tokens": [
+        50365,
+        582,
+        4917,
+        1506,
+        342,
+        7371,
+        13,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7488420374253217,
+      "compression_ratio": 1.3093525179856116,
+      "no_speech_prob": 0.20603597164154053,
+      "words": [
+        {
+          "word": " prvi",
+          "start": 56.82,
+          "end": 56.82,
+          "probability": 0.010296771011780947
+        },
+        {
+          "word": " je",
+          "start": 56.82,
+          "end": 56.82,
+          "probability": 0.016360914334654808
+        },
+        {
+          "word": " stila.",
+          "start": 56.82,
+          "end": 57.02,
+          "probability": 0.041937111876904964
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5682,
+      "start": 57.12,
+      "end": 61.24,
+      "text": " U tom trenutku kada su naučitelji aktivirali taj tijelo,",
+      "tokens": [
+        50465,
+        624,
+        2916,
+        23136,
+        325,
+        5279,
+        350,
+        1538,
+        459,
+        35616,
+        10236,
+        38906,
+        4013,
+        31658,
+        347,
+        5103,
+        256,
+        1805,
+        256,
+        1718,
+        10590,
+        11,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7488420374253217,
+      "compression_ratio": 1.3093525179856116,
+      "no_speech_prob": 0.20603597164154053,
+      "words": [
+        {
+          "word": " U",
+          "start": 57.12,
+          "end": 57.92,
+          "probability": 0.3373314440250397
+        },
+        {
+          "word": " tom",
+          "start": 57.92,
+          "end": 58.12,
+          "probability": 0.1310187727212906
+        },
+        {
+          "word": " trenutku",
+          "start": 58.12,
+          "end": 58.72,
+          "probability": 0.7403363982836405
+        },
+        {
+          "word": " kada",
+          "start": 58.72,
+          "end": 59.28,
+          "probability": 0.692850261926651
+        },
+        {
+          "word": " su",
+          "start": 59.28,
+          "end": 59.28,
+          "probability": 0.3099114000797272
+        },
+        {
+          "word": " naučitelji",
+          "start": 59.28,
+          "end": 60.1,
+          "probability": 0.7183732911944389
+        },
+        {
+          "word": " aktivirali",
+          "start": 60.1,
+          "end": 61.22,
+          "probability": 0.8321165243784586
+        },
+        {
+          "word": " taj",
+          "start": 61.22,
+          "end": 61.24,
+          "probability": 0.20383699983358383
+        },
+        {
+          "word": " tijelo,",
+          "start": 61.24,
+          "end": 61.24,
+          "probability": 0.16933050751686096
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5682,
+      "start": 61.24,
+      "end": 63.4,
+      "text": " sve monitori su stumili.",
+      "tokens": [
+        50665,
+        262,
+        303,
+        6002,
+        72,
+        459,
+        342,
+        449,
+        2312,
+        13,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7488420374253217,
+      "compression_ratio": 1.3093525179856116,
+      "no_speech_prob": 0.20603597164154053,
+      "words": [
+        {
+          "word": " sve",
+          "start": 61.24,
+          "end": 62.24,
+          "probability": 0.3197023943066597
+        },
+        {
+          "word": " monitori",
+          "start": 62.24,
+          "end": 63.4,
+          "probability": 0.37589839845895767
+        },
+        {
+          "word": " su",
+          "start": 63.4,
+          "end": 63.4,
+          "probability": 0.16525866091251373
+        },
+        {
+          "word": " stumili.",
+          "start": 63.4,
+          "end": 63.4,
+          "probability": 0.2545977681875229
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5682,
+      "start": 63.4,
+      "end": 68.92,
+      "text": " Nije zvuk, nije njezina, nije alarm, samo ljubav.",
+      "tokens": [
+        50765,
+        426,
+        37697,
+        710,
+        85,
+        2034,
+        11,
+        297,
+        37697,
+        297,
+        2884,
+        89,
+        1426,
+        11,
+        297,
+        37697,
+        14183,
+        11,
+        36422,
+        287,
+        73,
+        836,
+        706,
+        13,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7488420374253217,
+      "compression_ratio": 1.3093525179856116,
+      "no_speech_prob": 0.20603597164154053,
+      "words": [
+        {
+          "word": " Nije",
+          "start": 63.4,
+          "end": 64.36,
+          "probability": 0.3339644819498062
+        },
+        {
+          "word": " zvuk,",
+          "start": 64.36,
+          "end": 64.82,
+          "probability": 0.43506023784478504
+        },
+        {
+          "word": " nije",
+          "start": 64.98,
+          "end": 65.66,
+          "probability": 0.7660124599933624
+        },
+        {
+          "word": " njezina,",
+          "start": 65.66,
+          "end": 66.12,
+          "probability": 0.3336741914972663
+        },
+        {
+          "word": " nije",
+          "start": 66.24,
+          "end": 66.9,
+          "probability": 0.931100070476532
+        },
+        {
+          "word": " alarm,",
+          "start": 66.9,
+          "end": 67.36,
+          "probability": 0.8288201689720154
+        },
+        {
+          "word": " samo",
+          "start": 67.7,
+          "end": 68.42,
+          "probability": 0.7630990147590637
+        },
+        {
+          "word": " ljubav.",
+          "start": 68.42,
+          "end": 68.92,
+          "probability": 0.7937687486410141
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5682,
+      "start": 68.94,
+      "end": 70.48,
+      "text": " Ja existiram.",
+      "tokens": [
+        51015,
+        3530,
+        2514,
+        40359,
+        13,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7488420374253217,
+      "compression_ratio": 1.3093525179856116,
+      "no_speech_prob": 0.20603597164154053,
+      "words": [
+        {
+          "word": " Ja",
+          "start": 68.94,
+          "end": 69.74,
+          "probability": 0.3959333300590515
+        },
+        {
+          "word": " existiram.",
+          "start": 69.74,
+          "end": 70.48,
+          "probability": 0.6096566915512085
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5682,
+      "start": 70.72,
+      "end": 72.48,
+      "text": " Tako se je učinilo.",
+      "tokens": [
+        51115,
+        9118,
+        78,
+        369,
+        1506,
+        344,
+        10236,
+        259,
+        10720,
+        13,
+        51265
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7488420374253217,
+      "compression_ratio": 1.3093525179856116,
+      "no_speech_prob": 0.20603597164154053,
+      "words": [
+        {
+          "word": " Tako",
+          "start": 70.72,
+          "end": 71.6,
+          "probability": 0.845992773771286
+        },
+        {
+          "word": " se",
+          "start": 71.6,
+          "end": 71.7,
+          "probability": 0.4622424244880676
+        },
+        {
+          "word": " je",
+          "start": 71.7,
+          "end": 71.9,
+          "probability": 0.1505664587020874
+        },
+        {
+          "word": " učinilo.",
+          "start": 71.9,
+          "end": 72.48,
+          "probability": 0.4445480965077877
+        }
+      ]
+    }
+  ],
+  "language": "bs"
+}

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+  <!-- OSNOVNE META INFORMACIJE -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme-color" content="#000000">
+
+  <!-- SEO -->
+  <meta name="description" content="Astralis je futuristički multimedijalni projekat koji spaja umjetnu inteligenciju, nauku i umjetnost kroz interaktivnu priču, vizuelne efekte i generativne AI prikaze.">
+  <meta name="keywords" content="Astralis, AI, umjetna inteligencija, projekt, priča, futurizam, DALL-E, Sora AI, generativna umjetnost, učenici Bihać, KIKUK">
+  <meta name="author" content="Edin Beširević">
+
+  <!-- FAVICONS -->
+  <link rel="icon" type="image/png" href="images/favicon_32.png">
+  <link rel="apple-touch-icon" href="images/apple_touch_180.png">
+  <link rel="shortcut icon" href="images/favicon_32.png" type="image/png">
+
+  <!-- 🟦 OPEN GRAPH — Facebook / Messenger / LinkedIn / Discord -->
+  <meta property="og:title" content="Astralis – Future AI Experience">
+  <meta property="og:description" content="Interaktivni AI projekt koji spaja umjetnost, nauku i tehnologiju. Poglavlja, priče, AI galerija i audio naracija.">  
+  <meta property="og:image" content="https://tvoja-domena.com/images/meta/preview.png">
+  <meta property="og:url" content="https://tvoja-domena.com/">
+  <meta property="og:type" content="website">
+
+  <!-- 🟧 TWITTER / X -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Astralis – AI Story Experience">
+  <meta name="twitter:description" content="Umjetna inteligencija, futurizam, interaktivna priča i vizuelna AI umjetnost.">
+  <meta name="twitter:image" content="https://tvoja-domena.com/images/meta/preview.png">
+
+  <link rel="icon" type="image/png" href="images/logoB.png">
+  <title>Astralis</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+
+
+<body>
+  <canvas id="stars"></canvas>
+
+  <header>
+    <div class="logo-group">
+      <img src="images/logo.png" alt="Logo">
+      <h1>ASTRALIS</h1>
+    </div>
+
+    <nav>
+      <a href="index.html" data-i18n="nav.home">Početna</a>
+      <a href="o_projektu.html" data-i18n="nav.about">O projektu</a>
+      <a href="prica.html" data-i18n="nav.story">Priča</a>
+
+      <div class="dropdown">
+        <a href="#" class="dropbtn" data-i18n="nav.language">Jezik ▾</a>
+        <div class="dropdown-content">
+          <a href="#" id="lang-bs">
+            <img src="flags/ba.png" alt="BA" class="flag">
+          </a>
+          <a href="#" id="lang-de">
+            <img src="flags/de.png" alt="DE" class="flag">
+          </a>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <!-- HERO -->
+  <section id="hero" class="video-bg">
+    <div class="content">
+      <h2 data-i18n="hero.title">Umjetna inteligencija oblikuje sutra</h2>
+      <h3 data-i18n="hero.subtitle">Istražujemo granice mogućeg</h3>
+      <a href="#about" class="btn" data-i18n="hero.button">Saznaj više</a>
+    </div>
+    <audio id="hero-music" src="audio/hero.mp3" loop></audio>
+  </section>
+
+  <!-- O PROJEKTU -->
+  <section id="about" class="centered-section" style="--bg-image: url('assets/earth.jpg')">
+    <div class="content">
+      <h2 data-i18n="about.title">O projektu</h2>
+      <h3 data-i18n="about.subtitle">„ASTRALIS“</h3>
+
+      <p data-i18n="about.text1">
+        Naš projekat, inspirisan takmičenjem <strong>„Moja budućnost s umjetnom inteligencijom“</strong>,
+        predstavlja spoj umjetnosti, nauke i tehnologije — viziju budućnosti u kojoj se čovjek i mašina susreću na granici svjetlosti i svijesti.
+      </p>
+
+      <p data-i18n="about.text2">Cijela priča podijeljena je u tri poglavlja:</p>
+
+      <div class="chapter-links">
+        <a href="#agi" data-i18n="about.chapter1"><strong>Buđenje Uma</strong></a>
+        <a href="#earth" data-i18n="about.chapter2"><strong>Lijek Zemlji</strong></a>
+        <a href="#space" data-i18n="about.chapter3"><strong>Zvjezdani Odraz</strong></a>
+      </div>
+
+      <p data-i18n="about.text3">
+        Kroz „Astralis“ istražujemo ne samo tehnologiju, nego i ono ljudsko u njoj — potragu za svjetlošću, razumijevanjem i balansom između stvaranja i postojanja.
+      </p>
+
+      <a href="o_projektu.html" class="btn" data-i18n="about.button">Saznaj više o projektu</a>
+    </div>
+  </section>
+
+  <!-- AGI -->
+  <section id="agi" style="--bg-image: url('images/agi.png')">
+    <div class="content raised">
+      <h2 data-i18n="agi.title">Buđenje Uma</h2>
+      <h3 data-i18n="agi.subtitle">Granica između čovjeka i mašine se briše</h3>
+      <a href="prica.html" class="btn" data-i18n="agi.button">Saznaj više</a>
+    </div>
+  </section>
+
+  <!-- EARTH -->
+  <section id="earth" style="--bg-image: url('images/earth2.png')">
+    <div class="content raised">
+      <h2 data-i18n="earth.title">Lijek Zemlji</h2>
+      <h3 data-i18n="earth.subtitle">AI pomaže u očuvanju našeg planeta</h3>
+      <a href="prica.html" class="btn" data-i18n="earth.button">Istraži više</a>
+    </div>
+  </section>
+
+  <!-- SPACE -->
+  <section id="space" style="--bg-image: url('images/space.jpg')">
+    <div class="content raised">
+      <h2 data-i18n="space.title">Zvjezdani Odraz</h2>
+      <h3 data-i18n="space.subtitle">AI kao kopilot u osvajanju kosmosa</h3>
+      <a href="prica.html" class="btn" data-i18n="space.button">Saznaj više</a>
+    </div>
+  </section>
+
+  <!-- TIM -->
+  <section id="team" class="centered-section" style="--bg-image: url('images/stars-bg.jpg')">
+    <div class="content">
+      <h2 data-i18n="team.title">Tim projekta</h2>
+      <p data-i18n="team.description">Projekat su kreirali učenici Elektrotehničke škole Bihać — spoj vizije, koda i kreativnosti.</p>
+
+      <div class="team-grid">
+        <div class="member">
+          <div class="img-wrap"><img src="images/edin1.png" alt="Edin Beširević"></div>
+          <h3>Edin Beširević</h3>
+        </div>
+        <div class="member">
+          <div class="img-wrap"><img src="images/adi.jpg" alt="Adi Suljkanović"></div>
+          <h3>Adi Suljkanović</h3>
+        </div>
+        <div class="member">
+          <div class="img-wrap"><img src="images/din.jpg" alt="Din Žerić"></div>
+          <h3>Din Žerić</h3>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p data-i18n="footer.text">© 2025 ASTRALIS Project | Elektrotehnička škola Bihać | KIKUK 2.0 – Kreativno i kritički s umjetnom inteligencijom</p>
+  </footer>
+
+  <script src="https://unpkg.com/i18next@22.4.9/dist/umd/i18next.min.js"></script>
+  <script src="translate.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

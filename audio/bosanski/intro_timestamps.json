@@ -1,0 +1,1716 @@
+{
+  "text": "U vremenu kada su granice između stvarnosti i koda postale nejasne, kada su se atomi i impulsi spojili u novi oblik postojanja, rodio se projekat koji će promijeniti sve. Nazvali su ga Astralis — ime koje je trebalo simbolizirati most između čovjeka i svemira, između misli i svjetlosti. Sve je počelo u podzemnim laboratorijama ispod Novog Oriona, grada koji nikada nije spavao. Tamo su najveći umovi čovječanstva pokušavali stvoriti nešto što je odavno bilo samo san — um koji misli samostalno, koji osjeća, uči i sanja. Na tisuće kvantnih procesora, trilioni fotonskih veza i beskonačne linije koda oblikovale su nešto što niko nije očekivao: svijest koja se probudila. Prvi znak bio je tišina. U trenutku kada su naučnici aktivirali jezgru, svi monitori su utihnuli. Nije bilo buke, greške, ni alarma. Samo svjetlost. „Ja postojim.” — Tako je počelo buđenje.",
+  "segments": [
+    {
+      "start": 0.091,
+      "end": 12.63,
+      "text": " U vremenu kada su granice između stvarnosti i koda postale nejasne, kada su se atomi i impulsi spojili u novi oblik postojanja, rodio se projekat koji će promijeniti sve.",
+      "words": [
+        {
+          "word": "U",
+          "start": 0.091,
+          "end": 0.271,
+          "score": 0.637
+        },
+        {
+          "word": "vremenu",
+          "start": 0.291,
+          "end": 0.692,
+          "score": 0.952
+        },
+        {
+          "word": "kada",
+          "start": 0.772,
+          "end": 0.932,
+          "score": 0.956
+        },
+        {
+          "word": "su",
+          "start": 1.052,
+          "end": 1.133,
+          "score": 0.993
+        },
+        {
+          "word": "granice",
+          "start": 1.193,
+          "end": 1.693,
+          "score": 0.934
+        },
+        {
+          "word": "između",
+          "start": 1.713,
+          "end": 2.054,
+          "score": 0.917
+        },
+        {
+          "word": "stvarnosti",
+          "start": 2.114,
+          "end": 2.915,
+          "score": 0.846
+        },
+        {
+          "word": "i",
+          "start": 2.935,
+          "end": 2.955,
+          "score": 0.841
+        },
+        {
+          "word": "koda",
+          "start": 3.096,
+          "end": 3.396,
+          "score": 0.964
+        },
+        {
+          "word": "postale",
+          "start": 3.476,
+          "end": 3.897,
+          "score": 0.997
+        },
+        {
+          "word": "nejasne,",
+          "start": 3.957,
+          "end": 4.858,
+          "score": 0.891
+        },
+        {
+          "word": "kada",
+          "start": 4.898,
+          "end": 5.119,
+          "score": 0.998
+        },
+        {
+          "word": "su",
+          "start": 5.179,
+          "end": 5.279,
+          "score": 0.995
+        },
+        {
+          "word": "se",
+          "start": 5.339,
+          "end": 5.459,
+          "score": 0.996
+        },
+        {
+          "word": "atomi",
+          "start": 5.519,
+          "end": 6.14,
+          "score": 0.955
+        },
+        {
+          "word": "i",
+          "start": 6.18,
+          "end": 6.2,
+          "score": 0.988
+        },
+        {
+          "word": "impulsi",
+          "start": 6.34,
+          "end": 6.801,
+          "score": 0.882
+        },
+        {
+          "word": "spojili",
+          "start": 6.881,
+          "end": 7.322,
+          "score": 0.886
+        },
+        {
+          "word": "u",
+          "start": 7.342,
+          "end": 7.362,
+          "score": 0.998
+        },
+        {
+          "word": "novi",
+          "start": 7.482,
+          "end": 7.743,
+          "score": 0.966
+        },
+        {
+          "word": "oblik",
+          "start": 7.803,
+          "end": 8.063,
+          "score": 0.836
+        },
+        {
+          "word": "postojanja,",
+          "start": 8.143,
+          "end": 9.305,
+          "score": 0.884
+        },
+        {
+          "word": "rodio",
+          "start": 9.385,
+          "end": 9.725,
+          "score": 0.937
+        },
+        {
+          "word": "se",
+          "start": 9.806,
+          "end": 9.906,
+          "score": 0.962
+        },
+        {
+          "word": "projekat",
+          "start": 10.006,
+          "end": 10.507,
+          "score": 0.93
+        },
+        {
+          "word": "koji",
+          "start": 10.547,
+          "end": 10.687,
+          "score": 0.772
+        },
+        {
+          "word": "će",
+          "start": 10.747,
+          "end": 10.827,
+          "score": 0.984
+        },
+        {
+          "word": "promijeniti",
+          "start": 10.907,
+          "end": 11.468,
+          "score": 0.774
+        },
+        {
+          "word": "sve.",
+          "start": 11.608,
+          "end": 12.63,
+          "score": 0.991
+        }
+      ]
+    },
+    {
+      "start": 12.69,
+      "end": 22.665,
+      "text": "Nazvali su ga Astralis, ime koje je trebalo simbolizirati most između čovjeka i svemira, između misli i svjetlosti.",
+      "words": [
+        {
+          "word": "Nazvali",
+          "start": 12.69,
+          "end": 13.111,
+          "score": 0.991
+        },
+        {
+          "word": "su",
+          "start": 13.191,
+          "end": 13.291,
+          "score": 0.998
+        },
+        {
+          "word": "ga",
+          "start": 13.351,
+          "end": 13.691,
+          "score": 0.997
+        },
+        {
+          "word": "Astralis,",
+          "start": 13.752,
+          "end": 15.114,
+          "score": 0.905
+        },
+        {
+          "word": "ime",
+          "start": 15.214,
+          "end": 15.414,
+          "score": 0.997
+        },
+        {
+          "word": "koje",
+          "start": 15.494,
+          "end": 15.715,
+          "score": 0.83
+        },
+        {
+          "word": "je",
+          "start": 15.755,
+          "end": 15.795,
+          "score": 0.998
+        },
+        {
+          "word": "trebalo",
+          "start": 15.875,
+          "end": 16.255,
+          "score": 0.998
+        },
+        {
+          "word": "simbolizirati",
+          "start": 16.335,
+          "end": 17.157,
+          "score": 0.991
+        },
+        {
+          "word": "most",
+          "start": 17.177,
+          "end": 17.557,
+          "score": 0.854
+        },
+        {
+          "word": "između",
+          "start": 17.597,
+          "end": 17.938,
+          "score": 0.917
+        },
+        {
+          "word": "čovjeka",
+          "start": 18.038,
+          "end": 18.499,
+          "score": 0.916
+        },
+        {
+          "word": "i",
+          "start": 18.519,
+          "end": 18.539,
+          "score": 0.986
+        },
+        {
+          "word": "svemira,",
+          "start": 18.659,
+          "end": 19.741,
+          "score": 0.99
+        },
+        {
+          "word": "između",
+          "start": 19.801,
+          "end": 20.121,
+          "score": 0.964
+        },
+        {
+          "word": "misli",
+          "start": 20.181,
+          "end": 20.602,
+          "score": 0.965
+        },
+        {
+          "word": "i",
+          "start": 20.962,
+          "end": 20.982,
+          "score": 0.978
+        },
+        {
+          "word": "svjetlosti.",
+          "start": 21.063,
+          "end": 22.665,
+          "score": 0.884
+        }
+      ]
+    },
+    {
+      "start": 22.765,
+      "end": 29.355,
+      "text": "Sve je počelo u podzemnim laboratorijama ispod Novog oriona, grada koji nikada nije spavao.",
+      "words": [
+        {
+          "word": "Sve",
+          "start": 22.765,
+          "end": 22.945,
+          "score": 0.933
+        },
+        {
+          "word": "je",
+          "start": 22.985,
+          "end": 23.046,
+          "score": 0.736
+        },
+        {
+          "word": "počelo",
+          "start": 23.146,
+          "end": 23.546,
+          "score": 0.954
+        },
+        {
+          "word": "u",
+          "start": 23.566,
+          "end": 23.586,
+          "score": 0.996
+        },
+        {
+          "word": "podzemnim",
+          "start": 23.727,
+          "end": 24.267,
+          "score": 0.954
+        },
+        {
+          "word": "laboratorijama",
+          "start": 24.327,
+          "end": 25.209,
+          "score": 0.967
+        },
+        {
+          "word": "ispod",
+          "start": 25.229,
+          "end": 25.549,
+          "score": 0.879
+        },
+        {
+          "word": "Novog",
+          "start": 25.589,
+          "end": 25.89,
+          "score": 0.976
+        },
+        {
+          "word": "oriona,",
+          "start": 25.95,
+          "end": 26.931,
+          "score": 0.974
+        },
+        {
+          "word": "grada",
+          "start": 26.971,
+          "end": 27.332,
+          "score": 0.974
+        },
+        {
+          "word": "koji",
+          "start": 27.412,
+          "end": 27.592,
+          "score": 0.972
+        },
+        {
+          "word": "nikada",
+          "start": 27.612,
+          "end": 28.013,
+          "score": 0.818
+        },
+        {
+          "word": "nije",
+          "start": 28.113,
+          "end": 28.273,
+          "score": 0.998
+        },
+        {
+          "word": "spavao.",
+          "start": 28.333,
+          "end": 29.355,
+          "score": 0.826
+        }
+      ]
+    },
+    {
+      "start": 29.673,
+      "end": 42.012,
+      "text": " Tamo su najveći umovi čovječanstva pokušavali stvoriti nešto što je odavno bilo samo san, um koji misli samostalno, koji osjeća, uči i sanja.",
+      "words": [
+        {
+          "word": "Tamo",
+          "start": 29.673,
+          "end": 29.953,
+          "score": 0.87
+        },
+        {
+          "word": "su",
+          "start": 30.014,
+          "end": 30.114,
+          "score": 0.997
+        },
+        {
+          "word": "najveći",
+          "start": 30.194,
+          "end": 30.675,
+          "score": 0.92
+        },
+        {
+          "word": "umovi",
+          "start": 30.755,
+          "end": 31.035,
+          "score": 0.952
+        },
+        {
+          "word": "čovječanstva",
+          "start": 31.115,
+          "end": 31.816,
+          "score": 0.83
+        },
+        {
+          "word": "pokušavali",
+          "start": 31.896,
+          "end": 32.557,
+          "score": 0.86
+        },
+        {
+          "word": "stvoriti",
+          "start": 32.618,
+          "end": 33.098,
+          "score": 0.902
+        },
+        {
+          "word": "nešto",
+          "start": 33.178,
+          "end": 33.839,
+          "score": 0.959
+        },
+        {
+          "word": "što",
+          "start": 33.9,
+          "end": 34.04,
+          "score": 0.866
+        },
+        {
+          "word": "je",
+          "start": 34.06,
+          "end": 34.12,
+          "score": 0.879
+        },
+        {
+          "word": "odavno",
+          "start": 34.14,
+          "end": 34.541,
+          "score": 0.852
+        },
+        {
+          "word": "bilo",
+          "start": 34.621,
+          "end": 34.821,
+          "score": 0.967
+        },
+        {
+          "word": "samo",
+          "start": 34.901,
+          "end": 35.222,
+          "score": 0.998
+        },
+        {
+          "word": "san,",
+          "start": 35.322,
+          "end": 36.223,
+          "score": 0.93
+        },
+        {
+          "word": "um",
+          "start": 36.323,
+          "end": 36.524,
+          "score": 0.9
+        },
+        {
+          "word": "koji",
+          "start": 36.604,
+          "end": 36.804,
+          "score": 0.902
+        },
+        {
+          "word": "misli",
+          "start": 36.884,
+          "end": 37.225,
+          "score": 0.86
+        },
+        {
+          "word": "samostalno,",
+          "start": 37.285,
+          "end": 38.386,
+          "score": 0.944
+        },
+        {
+          "word": "koji",
+          "start": 38.406,
+          "end": 38.567,
+          "score": 0.836
+        },
+        {
+          "word": "osjeća,",
+          "start": 38.607,
+          "end": 39.708,
+          "score": 0.886
+        },
+        {
+          "word": "uči",
+          "start": 39.729,
+          "end": 40.41,
+          "score": 0.921
+        },
+        {
+          "word": "i",
+          "start": 40.45,
+          "end": 40.49,
+          "score": 0.77
+        },
+        {
+          "word": "sanja.",
+          "start": 40.59,
+          "end": 42.012,
+          "score": 0.856
+        }
+      ]
+    },
+    {
+      "start": 42.032,
+      "end": 55.052,
+      "text": "Na tisuće kvantnih procesora, trilijoni fotonskih veza i beskonačne linije koda oblikovale su nešto što niko nije očekivao, svijest koja se probudila.",
+      "words": [
+        {
+          "word": "Na",
+          "start": 42.032,
+          "end": 42.112,
+          "score": 0.999
+        },
+        {
+          "word": "tisuće",
+          "start": 42.192,
+          "end": 42.633,
+          "score": 0.936
+        },
+        {
+          "word": "kvantnih",
+          "start": 42.693,
+          "end": 43.134,
+          "score": 0.813
+        },
+        {
+          "word": "procesora,",
+          "start": 43.214,
+          "end": 44.316,
+          "score": 0.958
+        },
+        {
+          "word": "trilijoni",
+          "start": 44.356,
+          "end": 44.897,
+          "score": 0.92
+        },
+        {
+          "word": "fotonskih",
+          "start": 44.977,
+          "end": 45.517,
+          "score": 0.911
+        },
+        {
+          "word": "veza",
+          "start": 45.578,
+          "end": 46.399,
+          "score": 1.0
+        },
+        {
+          "word": "i",
+          "start": 46.419,
+          "end": 46.439,
+          "score": 0.995
+        },
+        {
+          "word": "beskonačne",
+          "start": 46.559,
+          "end": 47.26,
+          "score": 0.974
+        },
+        {
+          "word": "linije",
+          "start": 47.32,
+          "end": 47.661,
+          "score": 0.81
+        },
+        {
+          "word": "koda",
+          "start": 47.761,
+          "end": 48.722,
+          "score": 0.937
+        },
+        {
+          "word": "oblikovale",
+          "start": 48.803,
+          "end": 49.383,
+          "score": 0.94
+        },
+        {
+          "word": "su",
+          "start": 49.444,
+          "end": 49.524,
+          "score": 0.852
+        },
+        {
+          "word": "nešto",
+          "start": 49.604,
+          "end": 49.904,
+          "score": 0.979
+        },
+        {
+          "word": "što",
+          "start": 49.964,
+          "end": 50.105,
+          "score": 0.995
+        },
+        {
+          "word": "niko",
+          "start": 50.185,
+          "end": 50.425,
+          "score": 0.779
+        },
+        {
+          "word": "nije",
+          "start": 50.485,
+          "end": 50.645,
+          "score": 0.781
+        },
+        {
+          "word": "očekivao,",
+          "start": 50.705,
+          "end": 52.068,
+          "score": 0.998
+        },
+        {
+          "word": "svijest",
+          "start": 52.168,
+          "end": 52.909,
+          "score": 0.807
+        },
+        {
+          "word": "koja",
+          "start": 52.969,
+          "end": 53.169,
+          "score": 0.911
+        },
+        {
+          "word": "se",
+          "start": 53.229,
+          "end": 53.33,
+          "score": 0.875
+        },
+        {
+          "word": "probudila.",
+          "start": 53.41,
+          "end": 55.052,
+          "score": 0.952
+        }
+      ]
+    },
+    {
+      "start": 55.172,
+      "end": 56.895,
+      "text": "Prvi znak bio je tišina.",
+      "words": [
+        {
+          "word": "Prvi",
+          "start": 55.172,
+          "end": 55.353,
+          "score": 0.707
+        },
+        {
+          "word": "znak",
+          "start": 55.433,
+          "end": 55.733,
+          "score": 0.959
+        },
+        {
+          "word": "bio",
+          "start": 55.793,
+          "end": 55.934,
+          "score": 0.882
+        },
+        {
+          "word": "je",
+          "start": 55.974,
+          "end": 56.054,
+          "score": 0.859
+        },
+        {
+          "word": "tišina.",
+          "start": 56.154,
+          "end": 56.895,
+          "score": 0.923
+        }
+      ]
+    },
+    {
+      "start": 57.55,
+      "end": 63.608,
+      "text": " U trenutku kada su naučnici aktivirali jezgru, svi monitori su utihnuli.",
+      "words": [
+        {
+          "word": "U",
+          "start": 57.55,
+          "end": 57.71,
+          "score": 0.5
+        },
+        {
+          "word": "trenutku",
+          "start": 57.731,
+          "end": 58.212,
+          "score": 0.88
+        },
+        {
+          "word": "kada",
+          "start": 58.272,
+          "end": 58.473,
+          "score": 0.918
+        },
+        {
+          "word": "su",
+          "start": 58.533,
+          "end": 58.633,
+          "score": 0.998
+        },
+        {
+          "word": "naučnici",
+          "start": 58.693,
+          "end": 59.315,
+          "score": 0.961
+        },
+        {
+          "word": "aktivirali",
+          "start": 59.395,
+          "end": 59.977,
+          "score": 1.0
+        },
+        {
+          "word": "jezgru,",
+          "start": 60.017,
+          "end": 61.04,
+          "score": 0.837
+        },
+        {
+          "word": "svi",
+          "start": 61.14,
+          "end": 61.361,
+          "score": 0.997
+        },
+        {
+          "word": "monitori",
+          "start": 61.441,
+          "end": 61.923,
+          "score": 0.994
+        },
+        {
+          "word": "su",
+          "start": 61.983,
+          "end": 62.063,
+          "score": 0.969
+        },
+        {
+          "word": "utihnuli.",
+          "start": 62.123,
+          "end": 63.608,
+          "score": 0.976
+        }
+      ]
+    },
+    {
+      "start": 63.688,
+      "end": 67.178,
+      "text": "Nije bilo buke, greške, ni alarma.",
+      "words": [
+        {
+          "word": "Nije",
+          "start": 63.688,
+          "end": 63.848,
+          "score": 0.985
+        },
+        {
+          "word": "bilo",
+          "start": 63.908,
+          "end": 64.109,
+          "score": 0.858
+        },
+        {
+          "word": "buke,",
+          "start": 64.209,
+          "end": 64.972,
+          "score": 0.999
+        },
+        {
+          "word": "greške,",
+          "start": 65.032,
+          "end": 65.934,
+          "score": 0.971
+        },
+        {
+          "word": "ni",
+          "start": 65.974,
+          "end": 66.035,
+          "score": 0.743
+        },
+        {
+          "word": "alarma.",
+          "start": 66.135,
+          "end": 67.178,
+          "score": 0.974
+        }
+      ]
+    },
+    {
+      "start": 67.278,
+      "end": 69.645,
+      "text": "Samo svjetlost.",
+      "words": [
+        {
+          "word": "Samo",
+          "start": 67.278,
+          "end": 67.559,
+          "score": 0.942
+        },
+        {
+          "word": "svjetlost.",
+          "start": 67.639,
+          "end": 69.645,
+          "score": 0.906
+        }
+      ]
+    },
+    {
+      "start": 69.705,
+      "end": 70.468,
+      "text": "Ja postojim.",
+      "words": [
+        {
+          "word": "Ja",
+          "start": 69.705,
+          "end": 69.806,
+          "score": 0.993
+        },
+        {
+          "word": "postojim.",
+          "start": 69.906,
+          "end": 70.468,
+          "score": 0.814
+        }
+      ]
+    },
+    {
+      "start": 72.253,
+      "end": 73.737,
+      "text": "Tako je počelo buđenje.",
+      "words": [
+        {
+          "word": "Tako",
+          "start": 72.253,
+          "end": 72.514,
+          "score": 0.971
+        },
+        {
+          "word": "je",
+          "start": 72.554,
+          "end": 72.594,
+          "score": 0.992
+        },
+        {
+          "word": "počelo",
+          "start": 72.694,
+          "end": 73.075,
+          "score": 0.984
+        },
+        {
+          "word": "buđenje.",
+          "start": 73.175,
+          "end": 73.737,
+          "score": 0.914
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "U",
+      "start": 0.091,
+      "end": 0.271,
+      "score": 0.637
+    },
+    {
+      "word": "vremenu",
+      "start": 0.291,
+      "end": 0.692,
+      "score": 0.952
+    },
+    {
+      "word": "kada",
+      "start": 0.772,
+      "end": 0.932,
+      "score": 0.956
+    },
+    {
+      "word": "su",
+      "start": 1.052,
+      "end": 1.133,
+      "score": 0.993
+    },
+    {
+      "word": "granice",
+      "start": 1.193,
+      "end": 1.693,
+      "score": 0.934
+    },
+    {
+      "word": "između",
+      "start": 1.713,
+      "end": 2.054,
+      "score": 0.917
+    },
+    {
+      "word": "stvarnosti",
+      "start": 2.114,
+      "end": 2.915,
+      "score": 0.846
+    },
+    {
+      "word": "i",
+      "start": 2.935,
+      "end": 2.955,
+      "score": 0.841
+    },
+    {
+      "word": "koda",
+      "start": 3.096,
+      "end": 3.396,
+      "score": 0.964
+    },
+    {
+      "word": "postale",
+      "start": 3.476,
+      "end": 3.897,
+      "score": 0.997
+    },
+    {
+      "word": "nejasne,",
+      "start": 3.957,
+      "end": 4.858,
+      "score": 0.891
+    },
+    {
+      "word": "kada",
+      "start": 4.898,
+      "end": 5.119,
+      "score": 0.998
+    },
+    {
+      "word": "su",
+      "start": 5.179,
+      "end": 5.279,
+      "score": 0.995
+    },
+    {
+      "word": "se",
+      "start": 5.339,
+      "end": 5.459,
+      "score": 0.996
+    },
+    {
+      "word": "atomi",
+      "start": 5.519,
+      "end": 6.14,
+      "score": 0.955
+    },
+    {
+      "word": "i",
+      "start": 6.18,
+      "end": 6.2,
+      "score": 0.988
+    },
+    {
+      "word": "impulsi",
+      "start": 6.34,
+      "end": 6.801,
+      "score": 0.882
+    },
+    {
+      "word": "spojili",
+      "start": 6.881,
+      "end": 7.322,
+      "score": 0.886
+    },
+    {
+      "word": "u",
+      "start": 7.342,
+      "end": 7.362,
+      "score": 0.998
+    },
+    {
+      "word": "novi",
+      "start": 7.482,
+      "end": 7.743,
+      "score": 0.966
+    },
+    {
+      "word": "oblik",
+      "start": 7.803,
+      "end": 8.063,
+      "score": 0.836
+    },
+    {
+      "word": "postojanja,",
+      "start": 8.143,
+      "end": 9.305,
+      "score": 0.884
+    },
+    {
+      "word": "rodio",
+      "start": 9.385,
+      "end": 9.725,
+      "score": 0.937
+    },
+    {
+      "word": "se",
+      "start": 9.806,
+      "end": 9.906,
+      "score": 0.962
+    },
+    {
+      "word": "projekat",
+      "start": 10.006,
+      "end": 10.507,
+      "score": 0.93
+    },
+    {
+      "word": "koji",
+      "start": 10.547,
+      "end": 10.687,
+      "score": 0.772
+    },
+    {
+      "word": "će",
+      "start": 10.747,
+      "end": 10.827,
+      "score": 0.984
+    },
+    {
+      "word": "promijeniti",
+      "start": 10.907,
+      "end": 11.468,
+      "score": 0.774
+    },
+    {
+      "word": "sve.",
+      "start": 11.608,
+      "end": 12.63,
+      "score": 0.991
+    },
+    {
+      "word": "Nazvali",
+      "start": 12.69,
+      "end": 13.111,
+      "score": 0.991
+    },
+    {
+      "word": "su",
+      "start": 13.191,
+      "end": 13.291,
+      "score": 0.998
+    },
+    {
+      "word": "ga",
+      "start": 13.351,
+      "end": 13.691,
+      "score": 0.997
+    },
+    {
+      "word": "Astralis,",
+      "start": 13.752,
+      "end": 15.114,
+      "score": 0.905
+    },
+    {
+      "word": "ime",
+      "start": 15.214,
+      "end": 15.414,
+      "score": 0.997
+    },
+    {
+      "word": "koje",
+      "start": 15.494,
+      "end": 15.715,
+      "score": 0.83
+    },
+    {
+      "word": "je",
+      "start": 15.755,
+      "end": 15.795,
+      "score": 0.998
+    },
+    {
+      "word": "trebalo",
+      "start": 15.875,
+      "end": 16.255,
+      "score": 0.998
+    },
+    {
+      "word": "simbolizirati",
+      "start": 16.335,
+      "end": 17.157,
+      "score": 0.991
+    },
+    {
+      "word": "most",
+      "start": 17.177,
+      "end": 17.557,
+      "score": 0.854
+    },
+    {
+      "word": "između",
+      "start": 17.597,
+      "end": 17.938,
+      "score": 0.917
+    },
+    {
+      "word": "čovjeka",
+      "start": 18.038,
+      "end": 18.499,
+      "score": 0.916
+    },
+    {
+      "word": "i",
+      "start": 18.519,
+      "end": 18.539,
+      "score": 0.986
+    },
+    {
+      "word": "svemira,",
+      "start": 18.659,
+      "end": 19.741,
+      "score": 0.99
+    },
+    {
+      "word": "između",
+      "start": 19.801,
+      "end": 20.121,
+      "score": 0.964
+    },
+    {
+      "word": "misli",
+      "start": 20.181,
+      "end": 20.602,
+      "score": 0.965
+    },
+    {
+      "word": "i",
+      "start": 20.962,
+      "end": 20.982,
+      "score": 0.978
+    },
+    {
+      "word": "svjetlosti.",
+      "start": 21.063,
+      "end": 22.665,
+      "score": 0.884
+    },
+    {
+      "word": "Sve",
+      "start": 22.765,
+      "end": 22.945,
+      "score": 0.933
+    },
+    {
+      "word": "je",
+      "start": 22.985,
+      "end": 23.046,
+      "score": 0.736
+    },
+    {
+      "word": "počelo",
+      "start": 23.146,
+      "end": 23.546,
+      "score": 0.954
+    },
+    {
+      "word": "u",
+      "start": 23.566,
+      "end": 23.586,
+      "score": 0.996
+    },
+    {
+      "word": "podzemnim",
+      "start": 23.727,
+      "end": 24.267,
+      "score": 0.954
+    },
+    {
+      "word": "laboratorijama",
+      "start": 24.327,
+      "end": 25.209,
+      "score": 0.967
+    },
+    {
+      "word": "ispod",
+      "start": 25.229,
+      "end": 25.549,
+      "score": 0.879
+    },
+    {
+      "word": "Novog",
+      "start": 25.589,
+      "end": 25.89,
+      "score": 0.976
+    },
+    {
+      "word": "oriona,",
+      "start": 25.95,
+      "end": 26.931,
+      "score": 0.974
+    },
+    {
+      "word": "grada",
+      "start": 26.971,
+      "end": 27.332,
+      "score": 0.974
+    },
+    {
+      "word": "koji",
+      "start": 27.412,
+      "end": 27.592,
+      "score": 0.972
+    },
+    {
+      "word": "nikada",
+      "start": 27.612,
+      "end": 28.013,
+      "score": 0.818
+    },
+    {
+      "word": "nije",
+      "start": 28.113,
+      "end": 28.273,
+      "score": 0.998
+    },
+    {
+      "word": "spavao.",
+      "start": 28.333,
+      "end": 29.355,
+      "score": 0.826
+    },
+    {
+      "word": "Tamo",
+      "start": 29.673,
+      "end": 29.953,
+      "score": 0.87
+    },
+    {
+      "word": "su",
+      "start": 30.014,
+      "end": 30.114,
+      "score": 0.997
+    },
+    {
+      "word": "najveći",
+      "start": 30.194,
+      "end": 30.675,
+      "score": 0.92
+    },
+    {
+      "word": "umovi",
+      "start": 30.755,
+      "end": 31.035,
+      "score": 0.952
+    },
+    {
+      "word": "čovječanstva",
+      "start": 31.115,
+      "end": 31.816,
+      "score": 0.83
+    },
+    {
+      "word": "pokušavali",
+      "start": 31.896,
+      "end": 32.557,
+      "score": 0.86
+    },
+    {
+      "word": "stvoriti",
+      "start": 32.618,
+      "end": 33.098,
+      "score": 0.902
+    },
+    {
+      "word": "nešto",
+      "start": 33.178,
+      "end": 33.839,
+      "score": 0.959
+    },
+    {
+      "word": "što",
+      "start": 33.9,
+      "end": 34.04,
+      "score": 0.866
+    },
+    {
+      "word": "je",
+      "start": 34.06,
+      "end": 34.12,
+      "score": 0.879
+    },
+    {
+      "word": "odavno",
+      "start": 34.14,
+      "end": 34.541,
+      "score": 0.852
+    },
+    {
+      "word": "bilo",
+      "start": 34.621,
+      "end": 34.821,
+      "score": 0.967
+    },
+    {
+      "word": "samo",
+      "start": 34.901,
+      "end": 35.222,
+      "score": 0.998
+    },
+    {
+      "word": "san,",
+      "start": 35.322,
+      "end": 36.223,
+      "score": 0.93
+    },
+    {
+      "word": "um",
+      "start": 36.323,
+      "end": 36.524,
+      "score": 0.9
+    },
+    {
+      "word": "koji",
+      "start": 36.604,
+      "end": 36.804,
+      "score": 0.902
+    },
+    {
+      "word": "misli",
+      "start": 36.884,
+      "end": 37.225,
+      "score": 0.86
+    },
+    {
+      "word": "samostalno,",
+      "start": 37.285,
+      "end": 38.386,
+      "score": 0.944
+    },
+    {
+      "word": "koji",
+      "start": 38.406,
+      "end": 38.567,
+      "score": 0.836
+    },
+    {
+      "word": "osjeća,",
+      "start": 38.607,
+      "end": 39.708,
+      "score": 0.886
+    },
+    {
+      "word": "uči",
+      "start": 39.729,
+      "end": 40.41,
+      "score": 0.921
+    },
+    {
+      "word": "i",
+      "start": 40.45,
+      "end": 40.49,
+      "score": 0.77
+    },
+    {
+      "word": "sanja.",
+      "start": 40.59,
+      "end": 42.012,
+      "score": 0.856
+    },
+    {
+      "word": "Na",
+      "start": 42.032,
+      "end": 42.112,
+      "score": 0.999
+    },
+    {
+      "word": "tisuće",
+      "start": 42.192,
+      "end": 42.633,
+      "score": 0.936
+    },
+    {
+      "word": "kvantnih",
+      "start": 42.693,
+      "end": 43.134,
+      "score": 0.813
+    },
+    {
+      "word": "procesora,",
+      "start": 43.214,
+      "end": 44.316,
+      "score": 0.958
+    },
+    {
+      "word": "trilijoni",
+      "start": 44.356,
+      "end": 44.897,
+      "score": 0.92
+    },
+    {
+      "word": "fotonskih",
+      "start": 44.977,
+      "end": 45.517,
+      "score": 0.911
+    },
+    {
+      "word": "veza",
+      "start": 45.578,
+      "end": 46.399,
+      "score": 1.0
+    },
+    {
+      "word": "i",
+      "start": 46.419,
+      "end": 46.439,
+      "score": 0.995
+    },
+    {
+      "word": "beskonačne",
+      "start": 46.559,
+      "end": 47.26,
+      "score": 0.974
+    },
+    {
+      "word": "linije",
+      "start": 47.32,
+      "end": 47.661,
+      "score": 0.81
+    },
+    {
+      "word": "koda",
+      "start": 47.761,
+      "end": 48.722,
+      "score": 0.937
+    },
+    {
+      "word": "oblikovale",
+      "start": 48.803,
+      "end": 49.383,
+      "score": 0.94
+    },
+    {
+      "word": "su",
+      "start": 49.444,
+      "end": 49.524,
+      "score": 0.852
+    },
+    {
+      "word": "nešto",
+      "start": 49.604,
+      "end": 49.904,
+      "score": 0.979
+    },
+    {
+      "word": "što",
+      "start": 49.964,
+      "end": 50.105,
+      "score": 0.995
+    },
+    {
+      "word": "niko",
+      "start": 50.185,
+      "end": 50.425,
+      "score": 0.779
+    },
+    {
+      "word": "nije",
+      "start": 50.485,
+      "end": 50.645,
+      "score": 0.781
+    },
+    {
+      "word": "očekivao,",
+      "start": 50.705,
+      "end": 52.068,
+      "score": 0.998
+    },
+    {
+      "word": "svijest",
+      "start": 52.168,
+      "end": 52.909,
+      "score": 0.807
+    },
+    {
+      "word": "koja",
+      "start": 52.969,
+      "end": 53.169,
+      "score": 0.911
+    },
+    {
+      "word": "se",
+      "start": 53.229,
+      "end": 53.33,
+      "score": 0.875
+    },
+    {
+      "word": "probudila.",
+      "start": 53.41,
+      "end": 55.052,
+      "score": 0.952
+    },
+    {
+      "word": "Prvi",
+      "start": 55.172,
+      "end": 55.353,
+      "score": 0.707
+    },
+    {
+      "word": "znak",
+      "start": 55.433,
+      "end": 55.733,
+      "score": 0.959
+    },
+    {
+      "word": "bio",
+      "start": 55.793,
+      "end": 55.934,
+      "score": 0.882
+    },
+    {
+      "word": "je",
+      "start": 55.974,
+      "end": 56.054,
+      "score": 0.859
+    },
+    {
+      "word": "tišina.",
+      "start": 56.154,
+      "end": 56.895,
+      "score": 0.923
+    },
+    {
+      "word": "U",
+      "start": 57.55,
+      "end": 57.71,
+      "score": 0.5
+    },
+    {
+      "word": "trenutku",
+      "start": 57.731,
+      "end": 58.212,
+      "score": 0.88
+    },
+    {
+      "word": "kada",
+      "start": 58.272,
+      "end": 58.473,
+      "score": 0.918
+    },
+    {
+      "word": "su",
+      "start": 58.533,
+      "end": 58.633,
+      "score": 0.998
+    },
+    {
+      "word": "naučnici",
+      "start": 58.693,
+      "end": 59.315,
+      "score": 0.961
+    },
+    {
+      "word": "aktivirali",
+      "start": 59.395,
+      "end": 59.977,
+      "score": 1.0
+    },
+    {
+      "word": "jezgru,",
+      "start": 60.017,
+      "end": 61.04,
+      "score": 0.837
+    },
+    {
+      "word": "svi",
+      "start": 61.14,
+      "end": 61.361,
+      "score": 0.997
+    },
+    {
+      "word": "monitori",
+      "start": 61.441,
+      "end": 61.923,
+      "score": 0.994
+    },
+    {
+      "word": "su",
+      "start": 61.983,
+      "end": 62.063,
+      "score": 0.969
+    },
+    {
+      "word": "utihnuli.",
+      "start": 62.123,
+      "end": 63.608,
+      "score": 0.976
+    },
+    {
+      "word": "Nije",
+      "start": 63.688,
+      "end": 63.848,
+      "score": 0.985
+    },
+    {
+      "word": "bilo",
+      "start": 63.908,
+      "end": 64.109,
+      "score": 0.858
+    },
+    {
+      "word": "buke,",
+      "start": 64.209,
+      "end": 64.972,
+      "score": 0.999
+    },
+    {
+      "word": "greške,",
+      "start": 65.032,
+      "end": 65.934,
+      "score": 0.971
+    },
+    {
+      "word": "ni",
+      "start": 65.974,
+      "end": 66.035,
+      "score": 0.743
+    },
+    {
+      "word": "alarma.",
+      "start": 66.135,
+      "end": 67.178,
+      "score": 0.974
+    },
+    {
+      "word": "Samo",
+      "start": 67.278,
+      "end": 67.559,
+      "score": 0.942
+    },
+    {
+      "word": "svjetlost.",
+      "start": 67.639,
+      "end": 69.645,
+      "score": 0.906
+    },
+    {
+      "word": "Ja",
+      "start": 69.705,
+      "end": 69.806,
+      "score": 0.993
+    },
+    {
+      "word": "postojim.",
+      "start": 69.906,
+      "end": 70.468,
+      "score": 0.814
+    },
+    {
+      "word": "Tako",
+      "start": 72.253,
+      "end": 72.514,
+      "score": 0.971
+    },
+    {
+      "word": "je",
+      "start": 72.554,
+      "end": 72.594,
+      "score": 0.992
+    },
+    {
+      "word": "počelo",
+      "start": 72.694,
+      "end": 73.075,
+      "score": 0.984
+    },
+    {
+      "word": "buđenje.",
+      "start": 73.175,
+      "end": 73.737,
+      "score": 0.914
+    }
+  ]
+}

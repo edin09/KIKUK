@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+  <!-- OSNOVNE META INFORMACIJE -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme-color" content="#000000">
+
+  <!-- TITL (i18n dinamički mijenja vrijednost) -->
+  <title data-i18n="project.page_title">O projektu – Astralis</title>
+  <link rel="icon" type="image/png" href="images/logoB.png">
+
+
+  <!-- SEO -->
+  <meta name="description" content="O projektu Astralis – multimedijalni AI projekat koji spaja nauku, umjetnost i tehnologiju kroz poglavlja, vizualne prikaze i interaktivnu naraciju.">
+  <meta name="keywords" content="Astralis, AI projekt, O projektu, umjetna inteligencija, učenici Bihać, KIKUK, Goethe Institut, futurizam">
+  <meta name="author" content="Edin Beširević">
+
+  <!-- FAVICONS -->
+  <link rel="icon" type="image/png" href="images/favicon_32.png">
+  <link rel="apple-touch-icon" href="images/apple_touch_180.png">
+  <link rel="shortcut icon" href="images/favicon_32.png" type="image/png">
+
+  <!-- OPEN GRAPH (Facebook, Messenger, LinkedIn, Discord) -->
+  <meta property="og:title" content="Astralis – O projektu">
+  <meta property="og:description" content="Saznaj kako je nastao Astralis – kombinacija umjetne inteligencije, futurizma, nauke i kreativnog rada učenika.">
+  <meta property="og:image" content="images/meta/preview.png">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://tvoja-domena.com/o_projektu.html">
+
+  <!-- TWITTER / X -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Astralis – O projektu">
+  <meta name="twitter:description" content="Multimedijalni AI projekat: vizuali, naracija, poglavlja i generativna umjetnost.">
+  <meta name="twitter:image" content="images/meta/preview.png">
+
+  <!-- STILOVI -->
+  <link rel="stylesheet" href="about.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <!-- i18n -->
+  <script src="https://unpkg.com/i18next@22.4.9/dist/umd/i18next.min.js"></script>
+</head>
+
+
+<body>
+  <canvas id="stars"></canvas>
+
+  <header>
+    <div class="logo-group">
+      <img src="images/logo.png" alt="Logo">
+      <h1>ASTRALIS</h1>
+    </div>
+
+    <nav>
+      <a href="index.html" data-i18n="nav.home">Početna</a>
+      <a href="o_projektu.html" data-i18n="nav.about">O projektu</a>
+      <a href="prica.html" data-i18n="nav.story">Priča</a>
+
+      <div class="dropdown">
+        <a href="#" class="dropbtn" data-i18n="nav.language">Jezik ▾</a>
+        <div class="dropdown-content">
+          <a href="#" id="lang-bs">
+            <img src="flags/ba.png" alt="BA" class="flag">
+          </a>
+          <a href="#" id="lang-de">
+            <img src="flags/de.png" alt="DE" class="flag">
+          </a>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <section id="hero">
+    <div class="content">
+      <h2 data-i18n="project.hero_title">O PROJEKTU</h2>
+      <h3 data-i18n="project.hero_sub">Kombinacija nauke, umjetnosti i vizije</h3><br>
+      <a href="#project-info" class="btn" data-i18n="project.hero_button">Saznaj više</a>
+    </div>
+    <audio id="hero-music" src="audio/hero.mp3" loop></audio>
+  </section>
+
+  <section id="project-info" class="centered-section" style="--bg-image: url('assets/earth.jpg')">
+    <div class="content">
+      <h2 data-i18n="project.why_title">Zašto i kako je nastao projekat</h2>
+      <p data-i18n="project.text1">
+        <strong>Astralis</strong> je spoj nauke, umjetnosti i ljudske mašte – digitalni most između čovjeka i tehnologije. 
+        Kroz tri poglavlja – <em>Buđenje Uma</em>, <em>Lijek Zemlji</em> i <em>Zvjezdani Odraz</em> – istražujemo kako se granice između stvarnosti i koda brišu, 
+        i kako umjetna inteligencija postaje novi način izražavanja, razmišljanja i stvaranja.
+      </p>
+
+      <p data-i18n="project.text2">
+        Projekat je nastao u sklopu globalnog takmičenja <strong>KIKUK 2.0 – Kreativno i kritički s umjetnom inteligencijom</strong>, 
+        koje organizuje <strong>Goethe-Institut</strong> s ciljem da podstakne mlade na promišljanje o svojoj budućnosti u svijetu oblikovanom tehnologijom.
+        Pod motom <em>„Moja budućnost s umjetnom inteligencijom"</em>, željeli smo prikazati kako AI može biti mnogo više od alata – 
+        on može biti partner u stvaranju umjetnosti, čuvar ideja i svjedok ljudske mašte.
+      </p>
+
+      <p data-i18n="project.text3">
+        Kroz <strong>Astralis</strong> smo željeli pokazati da umjetna inteligencija nije samo matematički sistem, već živa platforma za izražavanje emocija, 
+        kreativnosti i odgovornosti prema svijetu koji gradimo. Naš cilj bio je spojiti poeziju i tehnologiju, nauku i empatiju, 
+        te ispričati priču koja povezuje prošlost, sadašnjost i budućnost čovječanstva – kroz svjetlost, zvuk i kod.
+      </p>
+
+      <p data-i18n="project.text4">
+        Učešće u KIKUK takmičenju za nas predstavlja više od projekta: to je prilika da pokažemo kako nove generacije mogu koristiti umjetnu inteligenciju 
+        na etičan, inspirativan i human način. <em>Astralis</em> je naš doprinos globalnom dijalogu o tome kako AI može biti snaga dobra, 
+        kreativnosti i zajedničkog napretka.
+      </p>
+
+      <div class="btn-container">
+        <a href="#gallery" class="btn" data-i18n="project.visit_gallery">Posjeti AI galeriju</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="gallery-section" id="gallery">
+    <div class="gallery-header">
+      <h2 data-i18n="project.gallery_title">AI Galerija</h2>
+      <p data-i18n="project.gallery_text">
+        Vizuelni prikazi koji spajaju umjetnu inteligenciju i ljudsku imaginaciju.<br>
+        Svaka slika, animacija i video u ovoj galeriji predstavljaju trenutak kada se tehnologija pretvara u umjetnost, 
+        kada se algoritmi pretvaraju u emocije, a svjetlost u priču.<br><br>
+        Kroz <strong>AI Galeriju</strong> prikazujemo proces stvaranja iza projekta <em>Astralis</em> – 
+        od prvih eksperimenata s generativnim modelima, preko koncepata o svijesti i planeti Zemlji, 
+        do apstraktnih prikaza svemira i ljudskog uma u digitalnoj formi.<br><br>
+        Cilj ove kolekcije je da prikaže snagu umjetne inteligencije kao kreativnog partnera – 
+        alata koji ne oponaša čovjeka, nego ga nadopunjuje, inspirise i podsjeća da mašta još uvijek vodi napredak.
+      </p>
+    </div>
+
+    <div class="gallery-grid">
+      <div class="gallery-item" data-key="agi" data-type="image" data-src="images/agi.png"
+           data-ai="DALL·E" data-model="v3">
+        <div class="overlay">
+          <h3 data-i18n="gallery.agi.title">Buđenje Uma</h3>
+          <p>DALL·E • v3</p>
+        </div>
+        <img src="images/agi.png" alt="">
+      </div>
+
+      <div class="gallery-item" data-key="earth" data-type="image" data-src="images/earth2.png"
+           data-ai="DALL·E" data-model="v3">
+        <div class="overlay">
+          <h3 data-i18n="gallery.earth.title">Lijek Zemlji</h3>
+          <p>DALL·E • v3</p>
+        </div>
+        <img src="images/earth2.png" alt="">
+      </div>
+
+      <div class="gallery-item" data-key="space" data-type="image" data-src="images/space.jpg"
+           data-ai="DALL·E" data-model="v3">
+        <div class="overlay">
+          <h3 data-i18n="gallery.space.title">Zvjezdani Odraz</h3>
+          <p>DALL·E • v3</p>
+        </div>
+        <img src="images/space.jpg" alt="">
+      </div>
+
+      <div class="gallery-item" data-key="neuron" data-type="video" data-src="videos/stars.mp4"
+           data-ai="Sora" data-model="v1">
+        <div class="overlay">
+          <h3 data-i18n="gallery.neuron.title">Svjetlosna Mreža</h3>
+          <p>Sora • v1</p>
+        </div>
+        <video src="videos/stars.mp4" autoplay loop muted playsinline></video>
+      </div>
+
+      <div class="gallery-item" data-key="awakening" data-type="video" data-src="videos/awakening.mp4"
+           data-ai="Sora" data-model="v1">
+        <div class="overlay">
+          <h3 data-i18n="gallery.awakening.title">Buđenje Uma - video</h3>
+          <p>Sora • v1</p>
+        </div>
+        <video src="videos/awakening.mp4" autoplay loop muted playsinline></video>
+      </div>
+
+      <div class="gallery-item" data-key="grass" data-type="video" data-src="videos/grass.mp4"
+           data-ai="Sora" data-model="v1">
+        <div class="overlay">
+          <h3 data-i18n="gallery.grass.title">Lijek Zemlji - video</h3>
+          <p>Sora • v1</p>
+        </div>
+        <video src="videos/grass.mp4" autoplay loop muted playsinline></video>
+      </div>
+
+      <div class="gallery-item" data-key="astronaut" data-type="video" data-src="videos/astronaut.mp4"
+           data-ai="Sora" data-model="v1">
+        <div class="overlay">
+          <h3 data-i18n="gallery.astronaut.title">Zvjezdani Odraz - video</h3>
+          <p>Sora • v1</p>
+        </div>
+        <video src="videos/astronaut.mp4" autoplay loop muted playsinline></video>
+      </div>
+
+      <div class="gallery-item" data-key="logo" data-type="image" data-src="images/logoB.png"
+           data-ai="ChatGPT" data-model="v5">
+        <div class="overlay">
+          <h3 data-i18n="gallery.logo.title">ASTRALIS</h3>
+          <p>ChatGPT • v5</p>
+        </div>
+        <img src="images/logoB.png" alt="">
+      </div>
+
+      <div class="gallery-item" data-key="sound" data-type="image" data-src="images/sound1.webp"
+           data-ai="ElevenLabs" data-model="v3 (alpha)">
+        <div class="overlay">
+          <h3 data-i18n="gallery.sound.title">Text to Speech</h3>
+          <p>ElevenLabs • v3 (alpha)</p>
+        </div>
+        <img src="images/sound1.webp" alt="">
+      </div>
+    </div>
+  </section>
+
+  <div class="popup" id="popup">
+    <div class="popup-content">
+      <i class="fa-solid fa-xmark close" id="closePopupBtn" title="Zatvori"></i>
+      <i class="fa-solid fa-chevron-left nav-arrow left" id="prevBtn" title="Prethodno"></i>
+      <i class="fa-solid fa-chevron-right nav-arrow right" id="nextBtn" title="Sljedeće"></i>
+
+      <div class="popup-left" id="popup-media"></div>
+
+      <div class="popup-right">
+        <h3 id="popup-title"></h3>
+
+        <div class="meta-info">
+          <div class="ai-info">
+            <img id="popup-ai-icon" src="" alt="AI Ikona">
+            <div>
+              <p class="label" data-i18n="popup.ai_tool_label">AI alat</p>
+              <p class="value" id="popup-ai"></p>
+            </div>
+          </div>
+          <div class="model-info">
+            <p class="label" data-i18n="popup.model_label">Model</p>
+            <p class="value" id="popup-model"></p>
+          </div>
+        </div>
+
+        <div class="divider"></div>
+        <div class="prompt-title">
+          <i class="fa-solid fa-code"></i> 
+          <span data-i18n="popup.prompt_label">Prompt</span>
+        </div>
+
+        <div class="prompt-box" id="popup-prompt"></div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p data-i18n="footer.text">© 2025 ASTRALIS Project | Elektrotehnička škola Bihać | KIKUK 2.0 – Kreativno i kritički s umjetnom inteligencijom</p>
+  </footer>
+
+  <script src="translate.js"></script>
+  <script src="about.js"></script>
+</body>
+</html>

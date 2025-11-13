@@ -1,0 +1,69 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über das Projekt",
+    "story": "Geschichte",
+    "language": "Sprache ▾"
+  },
+  "project": {
+    "page_title": "Über das Projekt – Astralis",
+    "hero_title": "ÜBER DAS PROJEKT",
+    "hero_sub": "Eine Kombination aus Wissenschaft, Kunst und Vision",
+    "hero_button": "Mehr erfahren",
+    "why_title": "Warum und wie das Projekt entstanden ist",
+    "text1": "<strong>Astralis</strong> ist eine Verbindung von Wissenschaft, Kunst und menschlicher Vorstellungskraft – eine digitale Brücke zwischen Mensch und Technologie. Durch drei Kapitel – <em>Erwachen des Geistes</em>, <em>Heilung der Erde</em> und <em>Sternenspiegel</em> – erforschen wir, wie sich die Grenzen zwischen Realität und Code auflösen und wie künstliche Intelligenz zu einer neuen Form des Ausdrucks, Denkens und Schaffens wird.",
+    "text2": "Das Projekt entstand im Rahmen des globalen Wettbewerbs <strong>KIKUK 2.0 – Kreativ und kritisch mit künstlicher Intelligenz</strong>, organisiert vom <strong>Goethe-Institut</strong>, mit dem Ziel, junge Menschen zum Nachdenken über ihre Zukunft in einer technologiegeprägten Welt anzuregen. Unter dem Motto <em>„Meine Zukunft mit künstlicher Intelligenz“</em> wollten wir zeigen, dass KI weit mehr als nur ein Werkzeug sein kann – sie kann ein Partner bei der Schaffung von Kunst, ein Hüter von Ideen und ein Zeuge menschlicher Kreativität sein.",
+    "text3": "Mit <strong>Astralis</strong> wollten wir zeigen, dass künstliche Intelligenz nicht nur ein mathematisches System ist, sondern eine lebendige Plattform für den Ausdruck von Emotionen, Kreativität und Verantwortung gegenüber der Welt, die wir erschaffen. Unser Ziel war es, Poesie und Technologie, Wissenschaft und Empathie zu verbinden und eine Geschichte zu erzählen, die Vergangenheit, Gegenwart und Zukunft der Menschheit durch Licht, Klang und Code vereint.",
+    "text4": "Die Teilnahme am KIKUK-Wettbewerb ist für uns mehr als nur ein Projekt: Es ist eine Gelegenheit, zu zeigen, wie neue Generationen künstliche Intelligenz auf ethische, inspirierende und menschliche Weise nutzen können. <em>Astralis</em> ist unser Beitrag zum globalen Dialog darüber, wie KI eine Kraft des Guten, der Kreativität und des gemeinsamen Fortschritts sein kann.",
+    "visit_gallery": "Besuche die KI-Galerie",
+    "gallery_title": "KI-Galerie",
+    "gallery_text": "Visuelle Darstellungen, die künstliche Intelligenz und menschliche Vorstellungskraft vereinen. Jedes Bild, jede Animation und jedes Video in dieser Galerie repräsentiert den Moment, in dem Technologie zu Kunst wird, Algorithmen zu Emotionen und Licht zu Geschichte. Durch die <strong>KI-Galerie</strong> zeigen wir den Entstehungsprozess hinter dem Projekt <em>Astralis</em> – von den ersten Experimenten mit generativen Modellen über Konzepte des Bewusstseins und der Erde bis hin zu abstrakten Darstellungen des Universums und des menschlichen Geistes in digitaler Form. Ziel dieser Sammlung ist es, die Kraft der KI als kreativen Partner zu zeigen – ein Werkzeug, das den Menschen ergänzt, inspiriert und daran erinnert, dass die Vorstellungskraft den Fortschritt antreibt."
+  },
+  "popup": {
+    "ai_tool_label": "KI-Tool",
+    "model_label": "Modell",
+    "prompt_label": "Prompt"
+  },
+  "gallery": {
+    "agi": {
+      "title": "Erwachen des Geistes",
+      "prompt": "Nahaufnahme eines Astronauten im Raumschiff, konzentriert an der futuristischen Konsole. Dunkle Umgebung, filmische Beleuchtung, Gefühl der Stille im Weltraum."
+    },
+    "earth": {
+      "title": "Heilung der Erde",
+      "prompt": "Blick auf die Erde aus dem All, Darstellung Afrikas und des Nahen Ostens, realistische Beleuchtung mit einer hellen und einer dunklen Hälfte, Wolken sichtbar, Atmosphäre leuchtet."
+    },
+    "space": {
+      "title": "Sternenspiegel",
+      "prompt": "Blick aus dem Weltraum auf den gekrümmten Horizont des Planeten, blauer Schimmer der Atmosphäre, ein Meteor zieht vorbei. Gefühl der Unendlichkeit und Ruhe."
+    },
+    "neuron": {
+      "title": "Lichtnetzwerk",
+      "prompt": "Dunkle, filmische Szene eines leuchtenden Netzwerks aus Punkten und Linien, die pulsieren. Kamera bewegt sich sanft durch das Netzwerk."
+    },
+    "awakening": {
+      "title": "Erwachen des Geistes – Video",
+      "prompt": "Nahaufnahme eines Mannes im Labor, der beobachtet, wie der Bildschirm plötzlich von selbst schreibt. Der Moment, in dem KI Bewusstsein erlangt."
+    },
+    "grass": {
+      "title": "Heilung der Erde – Video",
+      "prompt": "Zeitlupenaufnahme des Windes, der durch hohes grünes Gras weht. Symbolisiert Frieden und Hoffnung."
+    },
+    "astronaut": {
+      "title": "Sternenspiegel – Video",
+      "prompt": "Ein Astronaut im schwach beleuchteten Raumschiff betrachtet das leuchtende Bedienfeld. Subtile, realistische Atmosphäre."
+    },
+    "logo": {
+      "title": "ASTRALIS",
+      "prompt": "Eine epische Geschichte über das Projekt Astralis – die Verbindung zwischen künstlicher Intelligenz und Menschheit in drei Kapiteln."
+    },
+   "sound": {
+      "title": "Text zu Sprache",
+      "prompt": "Stimme: Brian • Stil: Eine Mischung zwischen robotisch und kreativ — ruhig, reflektiert, mit leichter emotionaler Wärme. Beispieltext: „In einer Zeit, in der die Grenzen zwischen Realität und Code verschwimmen, in der sich Atome und Impulse zu einer neuen Form des Seins vereinen, entstand ein Projekt, das alles verändern sollte...“"
+    }
+
+  },
+  "footer": {
+    "text": "© 2025 ASTRALIS Projekt | Elektrotechnische Schule Bihać | KIKUK 2.0 – Kreativ und kritisch mit künstlicher Intelligenz"
+  }
+}

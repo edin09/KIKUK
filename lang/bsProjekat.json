@@ -1,0 +1,69 @@
+{
+  "nav": {
+    "home": "Početna",
+    "about": "O projektu",
+    "story": "Priča",
+    "language": "Jezik ▾"
+  },
+  "project": {
+    "page_title": "O projektu – Astralis",
+    "hero_title": "O PROJEKTU",
+    "hero_sub": "Kombinacija nauke, umjetnosti i vizije",
+    "hero_button": "Saznaj više",
+    "why_title": "Zašto i kako je nastao projekat",
+    "text1": "<strong>Astralis</strong> je spoj nauke, umjetnosti i ljudske mašte — digitalni most između čovjeka i tehnologije. Kroz tri poglavlja — <em>Buđenje Uma</em>, <em>Lijek Zemlji</em> i <em>Zvjezdani Odraz</em> — istražujemo kako se granice između stvarnosti i koda brišu, i kako umjetna inteligencija postaje novi način izražavanja, razmišljanja i stvaranja.",
+    "text2": "Projekat je nastao u sklopu globalnog takmičenja <strong>KIKUK 2.0 – Kreativno i kritički s umjetnom inteligencijom</strong>, koje organizuje <strong>Goethe-Institut</strong> s ciljem da podstakne mlade na promišljanje o svojoj budućnosti u svijetu oblikovanom tehnologijom. Pod motom <em>„Moja budućnost s umjetnom inteligencijom“</em>, željeli smo prikazati kako AI može biti mnogo više od alata — on može biti partner u stvaranju umjetnosti, čuvar ideja i svjedok ljudske mašte.",
+    "text3": "Kroz <strong>Astralis</strong> smo željeli pokazati da umjetna inteligencija nije samo matematički sistem, već živa platforma za izražavanje emocija, kreativnosti i odgovornosti prema svijetu koji gradimo. Naš cilj bio je spojiti poeziju i tehnologiju, nauku i empatiju, te ispričati priču koja povezuje prošlost, sadašnjost i budućnost čovječanstva — kroz svjetlost, zvuk i kod.",
+    "text4": "Učešće u KIKUK takmičenju za nas predstavlja više od projekta: to je prilika da pokažemo kako nove generacije mogu koristiti umjetnu inteligenciju na etičan, inspirativan i human način. <em>Astralis</em> je naš doprinos globalnom dijalogu o tome kako AI može biti snaga dobra, kreativnosti i zajedničkog napretka.",
+    "visit_gallery": "Posjeti AI galeriju",
+    "gallery_title": "AI Galerija",
+    "gallery_text": "Vizuelni prikazi koji spajaju umjetnu inteligenciju i ljudsku imaginaciju. Svaka slika, animacija i video u ovoj galeriji predstavljaju trenutak kada se tehnologija pretvara u umjetnost, kada se algoritmi pretvaraju u emocije, a svjetlost u priču. Kroz <strong>AI Galeriju</strong> prikazujemo proces stvaranja iza projekta <em>Astralis</em> — od prvih eksperimenata s generativnim modelima, preko koncepata o svijesti i planeti Zemlji, do apstraktnih prikaza svemira i ljudskog uma u digitalnoj formi. Cilj ove kolekcije je da prikaže snagu umjetne inteligencije kao kreativnog partnera — alata koji ne oponaša čovjeka, nego ga nadopunjuje, inspiriše i podsjeća da mašta još uvijek vodi napredak."
+  },
+  "popup": {
+    "ai_tool_label": "AI alat",
+    "model_label": "Model",
+    "prompt_label": "Prompt"
+  },
+  "gallery": {
+    "agi": {
+      "title": "Buđenje Uma",
+      "prompt": "Krupan plan astronauta unutar svemirske letjelice, nosi bijelo svemirsko odijelo i kacigu, fokusirano upravlja komandnom pločom osvijetljenom plavičastim svjetlom. Mračno okruženje, realistični detalji, filmsko osvjetljenje, osjećaj tišine u svemiru."
+    },
+    "earth": {
+      "title": "Lijek Zemlji",
+      "prompt": "Pogled na planetu Zemlju iz svemira, prikaz Afrike i Bliskog istoka, realno osvjetljenje s jednom polovicom planete u svjetlu, a drugom u tami. Vidljivi oblaci i sjaj atmosfere."
+    },
+    "space": {
+      "title": "Zvjezdani Odraz",
+      "prompt": "Pogled iz svemira na zakrivljeni horizont planete, plavi sjaj atmosfere i trag meteora kroz nebo puno zvijezda."
+    },
+    "neuron": {
+      "title": "Svjetlosna Mreža",
+      "prompt": "Mračna scena svjetleće mreže tačaka povezanih finim linijama. Mreža pulsira plavim i zlatnim svjetlom, kamera se kreće kroz prostor."
+    },
+    "awakening": {
+      "title": "Buđenje Uma - video",
+      "prompt": "Ultra-realističan krupni plan čovjeka koji sjedi u laboratoriji, posmatra ekran koji sam piše kod. Trenutak kada AI postaje svjestan."
+    },
+    "grass": {
+      "title": "Lijek Zemlji - video",
+      "prompt": "Usporen kadar vjetra koji prolazi kroz visoku travu pod sunčevom svjetlošću. Simbol mira i nade."
+    },
+    "astronaut": {
+      "title": "Zvjezdani Odraz - video",
+      "prompt": "Astronaut u bijelom šljemu posmatra svjetleću komandnu ploču unutar letjelice. Tišina, svjetlost i refleksije."
+    },
+    "logo": {
+      "title": "ASTRALIS",
+      "prompt": "Epska priča o projektu Astralis — spajanje umjetne inteligencije i čovječanstva kroz tri poglavlja: Buđenje Uma, Lijek Zemlji i Zvjezdani Odraz."
+    },
+    "sound": {
+      "title": "Text to Speech",
+      "prompt": "Glas: Brian • Stil: Sredina između robotskog i kreativnog — smiren, reflektivan ton s blagom emocionalnom toplinom. Primjer teksta: „U vremenu kada su granice između stvarnosti i koda postale nejasne, kada su se atomi i impulsi spojili u novi oblik postojanja, rodio se projekat koji će promijeniti sve...“"
+    }
+
+  },
+  "footer": {
+    "text": "© 2025 ASTRALIS Project | Elektrotehnička škola Bihać | KIKUK 2.0 – Kreativno i kritički s umjetnom inteligencijom"
+  }
+}

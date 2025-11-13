@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "home": "Početna",
+    "about": "O projektu",
+    "story": "Priča",
+    "language": "Jezik ▾"
+  },
+  "hero": {
+    "title": "Umjetna inteligencija oblikuje sutra",
+    "subtitle": "Istražujemo granice mogućeg",
+    "button": "Saznaj više"
+  },
+  "about": {
+    "title": "O projektu",
+    "subtitle": "„ASTRALIS“",
+    "text1": "Naš projekat, inspirisan takmičenjem „Moja budućnost s umjetnom inteligencijom“, predstavlja spoj umjetnosti, nauke i tehnologije — viziju budućnosti u kojoj se čovjek i mašina susreću na granici svjetlosti i svijesti.",
+    "text2": "Cijela priča podijeljena je u tri poglavlja:",
+    "chapter1": "Buđenje Uma",
+    "chapter2": "Lijek Zemlji",
+    "chapter3": "Zvjezdani Odraz",
+    "text3": "Kroz „Astralis“ istražujemo ne samo tehnologiju, nego i ono ljudsko u njoj — potragu za svjetlošću, razumijevanjem i balansom između stvaranja i postojanja.",
+    "button": "Saznaj više o projektu"
+  },
+  "agi": {
+    "title": "Buđenje Uma",
+    "subtitle": "Granica između čovjeka i mašine se briše",
+    "button": "Saznaj više"
+  },
+  "earth": {
+    "title": "Lijek Zemlji",
+    "subtitle": "AI pomaže u očuvanju našeg planeta",
+    "button": "Istraži više"
+  },
+  "space": {
+    "title": "Zvjezdani Odraz",
+    "subtitle": "AI kao kopilot u osvajanju kosmosa",
+    "button": "Saznaj više"
+  },
+  "team": {
+    "title": "Tim projekta",
+    "description": "Projekat su kreirali učenici Elektrotehničke škole Bihać — spoj vizije, koda i kreativnosti.",
+    "member1": "Glavni programer i dizajner web prezentacije",
+    "member2": "Autor ideje i koncepta projekta",
+    "member3": "Umjetnički dizajn i prezentacija"
+  },
+  "footer": {
+    "text": "© 2025 ASTRALIS Project | Elektrotehnička škola Bihać | KIKUK 2.0 – Kreativno i kritički s umjetnom inteligencijom"
+  }
+}

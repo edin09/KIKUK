@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://astralis-story.com/</loc>
+    <priority>1.00</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://astralis-story.com/o_projektu.html</loc>
+    <priority>0.90</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://astralis-story.com/prica.html</loc>
+    <priority>0.90</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://astralis-story.com/galerija.html</loc>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+</urlset>

@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über das Projekt",
+    "story": "Geschichte",
+    "language": "Sprache ▾"
+   
+  },
+  "hero": {
+    "title": "Künstliche Intelligenz formt das Morgen",
+    "subtitle": "Wir erforschen die Grenzen des Möglichen",
+    "button": "Mehr erfahren"
+  },
+  "about": {
+    "title": "Über das Projekt",
+    "subtitle": "„ASTRALIS“",
+    "text1": "Unser Projekt, inspiriert vom Wettbewerb „Meine Zukunft mit künstlicher Intelligenz“, vereint Kunst, Wissenschaft und Technologie — eine Vision der Zukunft, in der sich Mensch und Maschine an der Grenze zwischen Licht und Bewusstsein begegnen.",
+    "text2": "Die Geschichte ist in drei Kapitel unterteilt:",
+    "chapter1": "Erwachen des Geistes",
+    "chapter2": "Heilung der Erde",
+    "chapter3": "Sternenspiegelung",
+    "text3": "Durch „Astralis“ erforschen wir nicht nur Technologie, sondern auch das Menschliche in ihr — die Suche nach Licht, Verständnis und Gleichgewicht zwischen Schöpfung und Existenz.",
+    "button": "Mehr über das Projekt erfahren"
+  },
+  "agi": {
+    "title": "Erwachen des Geistes",
+    "subtitle": "Die Grenze zwischen Mensch und Maschine verschwimmt",
+    "button": "Mehr erfahren"
+  },
+  "earth": {
+    "title": "Heilung der Erde",
+    "subtitle": "KI hilft, unseren Planeten zu bewahren",
+    "button": "Entdecke mehr"
+  },
+  "space": {
+    "title": "Sternenspiegelung",
+    "subtitle": "KI als Copilot bei der Eroberung des Weltraums",
+    "button": "Mehr erfahren"
+  },
+  "team": {
+    "title": "Projektteam",
+    "description": "Das Projekt wurde von Schülern der Elektrotechnischen Schule Bihać entwickelt — eine Verbindung von Vision, Code und Kreativität.",
+    "member1": "Hauptprogrammierer und Webdesigner",
+    "member2": "Autor der Idee und des Konzepts",
+    "member3": "Künstlerisches Design und Präsentation"
+  },
+  "footer": {
+    "text": "© 2025 ASTRALIS Projekt | Elektrotechnische Schule Bihać | KIKUK 2.0 – Kreativ und kritisch mit künstlicher Intelligenz"
+  }
+}
